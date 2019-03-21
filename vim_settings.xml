@@ -1,0 +1,205 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/hello/Application.java" timestamp="1552528232684">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" timestamp="1552855370575">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/core/pom.xml" timestamp="1552533492433">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="58" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/lookup/src/main/java/com/vizexplorer/ihub/lookup/service/LookupConnectorService.java" timestamp="1552532083606">
+        <mark key="[" line="216" column="1" />
+        <mark key="]" line="238" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/pom.xml" timestamp="1552612962930">
+        <mark key="'" line="70" column="20" />
+        <mark key="k" line="26" column="19" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" timestamp="1552862740408">
+        <mark key="'" line="199" column="17" />
+        <mark key="[" line="202" column="32" />
+        <mark key="]" line="202" column="33" />
+        <mark key="." line="202" column="33" />
+        <mark key="^" line="204" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ihub/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533887760">
+        <mark key="k" line="49" column="47" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/config/RestClientConfig.java" timestamp="1552527168209">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="4" />
+        <mark key="^" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/protobuf/ProtoHelper.java" timestamp="1552616629421">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/Segment.java" timestamp="1552862644003">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/SegmentController.java" timestamp="1552860357780">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/config/qaihub01/application.properties" timestamp="1552855195291">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" timestamp="1553198826259">
+        <mark key="k" line="57" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="42" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/lookup/pom.xml" timestamp="1552612437145">
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="126" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/lookup/src/main/java/com/vizexplorer/ihub/lookup/controller/LookupController.java" timestamp="1552532585802">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="50" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/campaign/pom.xml" timestamp="1552599369549">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/core/restclient/pom.xml" timestamp="1552854309356">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="116" column="11" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/admin/src/main/java/com/vizexplorer/ihub/admin/service/export/ExportConnector.java" timestamp="1552528216245">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ihub/Application.java" timestamp="1552533309698">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/Application.java" timestamp="1552531400773">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1552854930502">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/lookup/src/main/java/com/vizexplorer/ihub/lookup/LookupApplication.java" timestamp="1552528412024">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/pom.xml" timestamp="1552613145390">
+        <mark key="[" line="15" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="92" column="31" filename="$USER_HOME$/Documents/campaign-manager-be-service/config/application.properties" />
+      <jump line="90" column="46" filename="$USER_HOME$/Documents/campaign-manager-be-service/config/application.properties" />
+      <jump line="87" column="72" filename="$USER_HOME$/Documents/campaign-manager-be-service/config/application.properties" />
+      <jump line="64" column="20" filename="$USER_HOME$/Documents/campaign-manager-be-service/pom.xml" />
+      <jump line="200" column="17" filename="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5SZXN0VGVtcGxhdGU7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>stringutils</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFNlZ21lbnQgc2VnMSA9ICBuZXcgU2VnbWVudCgxLCAiR29sZCBUaWVyIik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuZXcgTWFwPFN0cmluZyxTdHJpbmc+KE1hcC5vZkVudHJpZXMoZW50cnkoKSkpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFNlZ21lbnQgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFNlZ21lbnQgewogIHB1YmxpYyBJbnRlZ2VyIGlkOwogIHB1YmxpYyBTdHJpbmcgc2VnbWVudDsKICBTZWdtZW50KEludGVnZXIgaWQsIFN0cmluZyBzZWdtZW50KSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgICB0aGlzLnNlZ21lbnQgPSBzZWdtZW50OwogIH0KfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdHJ5IHsKCiAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFNlZ21lbnQgc2VnMiA9IG1hcHBlci5yZWFkVmFsdWUoIntcImlkXCI6XCIxXCIsIFwic2VnbWVudFwiOlNpbHZlciBUaWVyfSIsIFNlZ21lbnQuY2xhc3MpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAKICAgICAgfQogICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgIFNlZ21lbnQgc2VnMSA9IG1hcHBlci5yZWFkVmFsdWUoIntcImlkXCI6XCIxXCIsIFwic2VnbWVudFwiOkdvbGQgVGllcn0iLCBTZWdtZW50LmNsYXNzKTsKICAgIFNlZ21lbnQgc2VnMiA9IG1hcHBlci5yZWFkVmFsdWUoIntcImlkXCI6XCIxXCIsIFwic2VnbWVudFwiOlNpbHZlciBUaWVyfSIsIFNlZ21lbnQuY2xhc3MpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>stringutils</last-search>
+      <last-offset />
+      <last-pattern>stringutils</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>jks</entry>
+        <entry>gettemplate</entry>
+        <entry>getresttemplate</entry>
+        <entry>stringutils</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>wa</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
