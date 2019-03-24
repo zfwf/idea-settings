@@ -98,8 +98,10 @@
       <file name="/Dummy.txt" timestamp="1553387815374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ihub-core-effective-pom.xml" timestamp="1553463251755">
+      <file name="/ihub-core-effective-pom.xml" timestamp="1553464816164">
         <mark key="'" line="1115" column="28" />
+        <mark key="[" line="3897" column="10" />
+        <mark key="]" line="3897" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
         <mark key="[" line="4" column="58" />
@@ -185,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ihub-poikiri</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>ihub-poikiri</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
