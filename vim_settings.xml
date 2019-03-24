@@ -98,6 +98,9 @@
       <file name="/Dummy.txt" timestamp="1553387815374">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ihub-core-effective-pom.xml" timestamp="1553463251755">
+        <mark key="'" line="1115" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
         <mark key="[" line="4" column="58" />
         <mark key="]" line="4" column="64" />
@@ -150,6 +153,35 @@
       <jump line="87" column="72" filename="$USER_HOME$/Documents/campaign-manager-be-service/config/application.properties" />
       <jump line="64" column="20" filename="$USER_HOME$/Documents/campaign-manager-be-service/pom.xml" />
       <jump line="200" column="17" filename="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
+      <jump line="206" column="54" filename="/ihub-core-effective-pom.xml" />
+      <jump line="217" column="51" filename="/ihub-core-effective-pom.xml" />
+      <jump line="230" column="40" filename="/ihub-core-effective-pom.xml" />
+      <jump line="231" column="41" filename="/ihub-core-effective-pom.xml" />
+      <jump line="232" column="40" filename="/ihub-core-effective-pom.xml" />
+      <jump line="233" column="52" filename="/ihub-core-effective-pom.xml" />
+      <jump line="234" column="49" filename="/ihub-core-effective-pom.xml" />
+      <jump line="235" column="51" filename="/ihub-core-effective-pom.xml" />
+      <jump line="236" column="44" filename="/ihub-core-effective-pom.xml" />
+      <jump line="237" column="56" filename="/ihub-core-effective-pom.xml" />
+      <jump line="238" column="48" filename="/ihub-core-effective-pom.xml" />
+      <jump line="239" column="41" filename="/ihub-core-effective-pom.xml" />
+      <jump line="240" column="40" filename="/ihub-core-effective-pom.xml" />
+      <jump line="241" column="42" filename="/ihub-core-effective-pom.xml" />
+      <jump line="242" column="42" filename="/ihub-core-effective-pom.xml" />
+      <jump line="243" column="42" filename="/ihub-core-effective-pom.xml" />
+      <jump line="244" column="44" filename="/ihub-core-effective-pom.xml" />
+      <jump line="245" column="41" filename="/ihub-core-effective-pom.xml" />
+      <jump line="246" column="48" filename="/ihub-core-effective-pom.xml" />
+      <jump line="247" column="51" filename="/ihub-core-effective-pom.xml" />
+      <jump line="248" column="44" filename="/ihub-core-effective-pom.xml" />
+      <jump line="249" column="43" filename="/ihub-core-effective-pom.xml" />
+      <jump line="250" column="51" filename="/ihub-core-effective-pom.xml" />
+      <jump line="251" column="51" filename="/ihub-core-effective-pom.xml" />
+      <jump line="3067" column="20" filename="/ihub-core-effective-pom.xml" />
+      <jump line="3072" column="20" filename="/ihub-core-effective-pom.xml" />
+      <jump line="3077" column="20" filename="/ihub-core-effective-pom.xml" />
+      <jump line="3082" column="20" filename="/ihub-core-effective-pom.xml" />
+      <jump line="1115" column="28" filename="/ihub-core-effective-pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -159,7 +191,7 @@
         <text>ihub-poikiri</text>
       </register>
       <register name="/" type="4">
-        <text>stringutils</text>
+        <text>spring-web</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNlZ21lbnQgc2VnMSA9ICBuZXcgU2VnbWVudCgxLCAiR29sZCBUaWVyIik7Cg==</text>
@@ -196,9 +228,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stringutils</last-search>
+      <last-search>spring-web</last-search>
       <last-offset />
-      <last-pattern>stringutils</last-pattern>
+      <last-pattern>spring-web</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -208,6 +240,8 @@
         <entry>gettemplate</entry>
         <entry>getresttemplate</entry>
         <entry>stringutils</entry>
+        <entry>spring</entry>
+        <entry>spring-web</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
