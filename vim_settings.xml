@@ -100,6 +100,9 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1553932995116">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" timestamp="1552862740408">
         <mark key="'" line="199" column="17" />
         <mark key="[" line="202" column="32" />
@@ -133,14 +136,6 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/campaign-manager-be-service/pom.xml" timestamp="1552612962930">
-        <mark key="'" line="70" column="20" />
-        <mark key="k" line="26" column="19" />
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="32" column="24" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub/campaign/src/test/java/com/vizexplorer/ihub/campaign/service/CampaignServiceTest.java" timestamp="1553827648669">
         <mark key="[" line="13" column="0" />
