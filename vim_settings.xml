@@ -51,6 +51,12 @@
         <mark key="[" line="114" column="12" />
         <mark key="]" line="126" column="20" />
       </file>
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/data.txt" timestamp="1554063558332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/Segment.java" timestamp="1552862644003">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -60,14 +66,13 @@
         <mark key="[" line="216" column="1" />
         <mark key="]" line="238" column="2" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/PostFormaServiceTest.java" timestamp="1554002024085">
-        <mark key="'" line="78" column="33" />
-        <mark key="j" line="100" column="8" />
-        <mark key="k" line="100" column="8" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="105" column="75" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/PostFormaServiceTest.java" timestamp="1554064124495">
+        <mark key="'" line="66" column="33" />
+        <mark key="j" line="88" column="8" />
+        <mark key="[" line="102" column="45" />
+        <mark key="]" line="102" column="45" />
+        <mark key="^" line="43" column="21" />
+        <mark key="." line="102" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/config/qaihub01/application.properties" timestamp="1553725468057">
         <mark key="[" line="13" column="20" />
@@ -118,7 +123,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553387815374">
+      <file name="/Dummy.txt" timestamp="1554064133695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ihub-core-effective-pom.xml" timestamp="1553464816164">
@@ -184,7 +189,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>addPlayer</text>
+        <text>throws IOException</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
@@ -193,10 +198,10 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwbGF5ZXJPZmZlck1hcF9hZGRQbGF5ZXIoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxPZmZlckNvZGU+IGdldEVsaWdpYmxlT2ZmZXJzKCkgewogICAgICAgIHJldHVybiBMaXN0Lm9mKAogICAgICAgICAgICAgICAgbmV3IE9mZmVyQ29kZSgKICAgICAgICAgICAgICAgICAgICAgICAgIjEiLCAiJDUwIG9mZmVyIiwgNTAsCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgTW9udGguQVBSSUwsIDEsIDExLCAzMCksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgTW9udGguTUFZLCAxLCAxMSwgMzApCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgbmV3IE9mZmVyQ29kZSgKICAgICAgICAgICAgICAgICAgICAgICAgIjIiLCAiJDIwIG9mZmVyIiwgMjAsCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgTW9udGguQVBSSUwsIDEsIDExLCAzMCksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgTW9udGguQVBSSUwsIDEsIDExLCAyOSkKICAgICAgICAgICAgICAgICkKICAgICAgICApOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -205,19 +210,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvZmZlckxpc3RfaW5pdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwbGF5ZXJPZmZlckxpc3RfaW5pdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIGRkZGRkZGRkZAo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvZmZlckxpc3RfaW5pdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogMS4gZmluZCBhbGwgYXZhaWxhYmxlIG9mZmVycyBpbiBjdXJyZW50IHBlcmlvZCAoYW55IG9mZmVyIHRoYXQgc3RhcnRzIDw9IGVuZCBvZiB0aGUgY3VycmVudCBwZXJpb2QgCiAgICAgKiBhbmQgZXhwaXJlcyA+PSBzdGFydCBvZiBjdXJyZW50IHBlcmlvZCkuIAogICAgICogMi4gRm9yIGFuIGF2YWlsYWJsZSBvZmZlciB0aGF0IGhhcyBzdGFydGVkIGJlZm9yZSB0aGUgY3VycmVudCB0aW1lIHBlcmlvZCAoYWthIHByZS1vZmZlciksIGRlZHVjZSAKICAgICAqIGl0cyBhbGxvY2F0aW9uIHRvIGVhY2ggZWxpZ2libGUgcGxheWVyIHVzaW5nIHRoZSByZXN1bHRzIHRhYmxlLiBpZiBubyBhbGxvY2F0aW9uIGhhcyBmb3VuZCBmb3IgYW4gCiAgICAgKiBlbGlnaWJsZSBwbGF5ZXIgaXQgaXMgY29uc2lkZXJlZCBmdWxseSBhbGxvY2F0ZWQgYW5kIHJlbW92ZWQgZnJvbSBsaXN0IG9mIGVsaWdpYmxlIG9mZmVycyBmb3IgdGhhdCAKICAgICAqIHBsYXllci4gdGhpcyBwcm9jZXNzIHdpbGwgY3JlYXRlIGEgbWFwIG9mIHBsYXllciBpZCB0byBlbGlnaWJsZSBvZmZlcnMgKG9mZmVyQ29kZSBvYmopIGxpc3QuIFRoZSAKICAgICAqIGVsaWdpYmxlIG9mZmVyIGxpc3QgaXMgc29ydGVkIGJ5IGVuZCAoYXNjKSB0aGVuIGJ5IGFtb3VudCAoYXNjKS4gCiAgICAgKiAzLiBpZiBhIHJlZGVlbSB0cmFuc2FjdGlvbiBoYXMgYSBwbGF5ZXIgaWQgbm90IGZvdW5kIGluIHRoZSBwbGF5ZXItb2ZmZXIgbWFwCiAgICAgKiBjcmVhdGUgaXQgYW5kIGluaXRpYWxpemUgdGhlIGVsaWdpYmxlIG9mZmVycy4gVGhlIGVsaWdpYmxlIG9mZmVycyBzaG91bGQgb25seSBjb250YWluIG9mZmVycyB0aGF0IAogICAgICogc3RhcnRlZCA+PSB0aGUgc3RhcnQgb2YgY3VycmVudCBwcm9jZXNzaW5nIHBlcmlvZCBhbmQgZW5kZWQgPj0gdGhlIHRyYW5zYWN0aW9uIHN0YXJ0IGRhdGUuIAogICAgICogNC4gUHJvY2VzcyB0aGUgdHJhbnNhY3Rpb24gYnkgZWl0aGVyIGFsbG9jYXRpb24gYW4gb2ZmZXIgb3Igc2V0ICdOT19PRkZFUicsIHdyaXRlIHRvIHJlc3VsdCB0YWJsZS4KICAgICAqIGlmIGFuIG9mZmVyIGlzIGZ1bGx5IGFsbG9jYXRlZCBvciBhIHJlZGVlbSB0cmFuc2FjdGlvbiBoYXMgb2NjdXJyZWQgYWZ0ZXIgYW4gb2ZmZXIncyBleHBpcnksIHJlbW92ZQogICAgICogdGhlIG9mZmVyIGZyb20gdGhlIGVsaWdpYmxlIG9mZmVyIGxpc3QgYW5kIHJlLXNvcnQgdGhlIGxpc3QgKGlmIHRoZXJlIGlzIGFueSBpdGVtIGxlZnQgaW4gdGhlIGxpc3QpCiAgICAgKiA1LiByZXBlYXQgc3RlcCAzIGFuZCA0IHVudGlsIGFsbCByZWRlZW0gdHJhbnNhY3Rpb24gd2l0aGluIHRoZSBwZXJpb2QgaXMgcHJvY2Vzc2VkIGFuZCByZXN1bHRzIGNvbW1pdHRlZAogICAgICogdG8gcmVzdWx0cyB0YWJsZQogICAgICogCiAgICAgKiAzIGRhdGEgc3RydWN0dXJlczoKICAgICAqIC0gQSBsaXN0IG9mIHByZSBvZmZlcnMKICAgICAqIC0gQSBsaXN0IG9mIG9mZmVycyAob2ZmZXJzIHRoYXQgc3RhcnRlZCA+PSBjdXJyZW50IHByb2Nlc3NpbmcgcGVyaW9kKQogICAgICogLSBBIG1hcCBvZiBwbGF5ZXIgaWQgdG8gdGhlIHBsYXllcnMgZWxpZ2libGUgb2ZmZXJzIGxpc3QKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwbGF5ZXJPZmZlckxpc3RfaW5pdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIGZvciBlYWNoIHBsYXllciB0aGF0IGhhcyByZWRlZW1lZCBvbmUvbW9yZSBvZiB0aGUgCiAgICAgKiBhdmFpbGFibGUgb2ZmZXIsIHJlY29yZCBob3cgbXVjaCBvZiBpdCBoYXMgYmVlbiBhbGxvY2F0ZWQuIGlmIG5vIGFsbG9jYXRpb24gaGFzIGJlZW4gZm91bmQgZm9yIGEKICAgICAqIGNyZWF0ZSB0d28gZGF0YSBzdHJ1Y3R1cmUsCiAgICAgKiB0byBwcm9jZXNzIGEgdHJhbnNhY3Rpb24sIHdlIHRha2UgYSBwbGF5ZXIgaWQgdGhhdCByZWRlZW1lZCBhbiBvZmZlciBhbmQgc2VlIGlmIHRoZSBwbGF5ZXIgCiAgICAgKiBoYXMgYW55IHVuYWxsb2NhdGVkIDBmZmVyLiAKICAgICAqIDIuIGZvciBvZmZlcnMgdGhhdCBzdGFydGVkIGJlZm9yZSB0aGUgY3VycmVudCBwZXJpb2QgZmluZCBhbGxvY2F0aW9uIGluZm9ybWF0aW9uLiBUaGlzIGlzIAo=</text>
+        <text encoding="base64">ICAgICAqIGRkZGRkZGRkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
@@ -251,6 +256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
