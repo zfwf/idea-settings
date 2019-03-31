@@ -74,12 +74,12 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/models/RedeemableOfferCode.java" timestamp="1554066965935">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/models/RedeemableOfferCode.java" timestamp="1554067211669">
+        <mark key="[" line="22" column="18" />
         <mark key="k" line="15" column="2" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/config/qaihub01/application.properties" timestamp="1553725468057">
         <mark key="[" line="13" column="20" />
@@ -136,7 +136,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554066689879">
+      <file name="/Dummy.txt" timestamp="1554067220717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ihub-core-effective-pom.xml" timestamp="1553464816164">
@@ -202,7 +202,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>OfferCode</text>
+        <text>remainingValue</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
