@@ -22,14 +22,14 @@
         <mark key="." line="0" column="940" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554085375647">
+      <file name="/a.dummy" timestamp="1554089644286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/RedeemableOfferCode.java" timestamp="1554085429295">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="63" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/RedeemableOfferCode.java" timestamp="1554089817299">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/Segment.java" timestamp="1552862644003">
         <mark key="[" line="2" column="0" />
@@ -55,6 +55,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554089941544">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="73" />
+        <mark key="." line="39" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
         <mark key="[" line="4" column="58" />
@@ -87,20 +93,18 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/PostFormaServiceTest.java" timestamp="1554083696589">
-        <mark key="'" line="32" column="13" />
-        <mark key="j" line="153" column="8" />
-        <mark key="[" line="150" column="7" />
-        <mark key="]" line="150" column="34" />
-        <mark key="." line="150" column="34" />
-        <mark key="^" line="150" column="34" />
-      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/OfferCode.java" timestamp="1554085302928">
         <mark key="[" line="21" column="36" />
         <mark key="k" line="5" column="20" />
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/OfferCodeType.java" timestamp="1554089769495">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/models/RedeemableOfferCode.java" timestamp="1554084048798">
         <mark key="^" line="5" column="31" />
@@ -141,8 +145,11 @@
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/OfferCodeService.java" timestamp="1554087988256">
-        <mark key="[" line="38" column="86" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/OfferType.java" timestamp="1554089720136">
+        <mark key="[" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/OfferCodeService.java" timestamp="1554089544539">
+        <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="7" />
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
@@ -151,12 +158,6 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/services/OfferCodeService.java" timestamp="1554080191835">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="29" column="86" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/hello/Application.java" timestamp="1552528232684">
         <mark key="[" line="11" column="0" />
@@ -202,7 +203,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Top</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
