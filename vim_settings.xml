@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/OfferCodeController.java" timestamp="1554086451477">
-        <mark key="'" line="48" column="26" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="77" column="37" />
-        <mark key="^" line="77" column="37" />
-        <mark key="." line="77" column="37" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554200918546">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="21" />
+        <mark key="." line="71" column="21" />
+        <mark key="^" line="71" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/config/RestClientConfig.java" timestamp="1552527168209">
         <mark key="[" line="56" column="5" />
@@ -123,22 +122,15 @@
       <file name="/HTML File.txt.ft" timestamp="1553932995116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" timestamp="1552862740408">
-        <mark key="'" line="199" column="17" />
-        <mark key="[" line="202" column="32" />
-        <mark key="]" line="202" column="33" />
-        <mark key="." line="202" column="33" />
-        <mark key="^" line="204" column="22" />
-      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554196967290">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554199099649">
+      <file name="/Dummy.txt" timestamp="1554200924128">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="56" />
+        <mark key="]" line="26" column="56" />
+        <mark key="." line="26" column="56" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/OfferType.java" timestamp="1554089720136">
         <mark key="[" line="19" column="18" />
@@ -161,12 +153,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/SessionResult.java" timestamp="1554199018772">
-        <mark key="'" line="30" column="42" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/SessionResult.java" timestamp="1554200795754">
+        <mark key="'" line="26" column="42" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
         <mark key="[" line="4" column="58" />
@@ -251,43 +243,43 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;NO_OFFER&quot;</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk=</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdHMuZ2V0KDIpLm9mZmVySWQpLmlzRXF1YWxUbygiTk9fT0ZGRVIiKTsK</text>
+      <register name="0" type="4">
+        <text>offer.id, offer.segmentId, offer.campaignId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaGF2ZSBhbiBhY3RpdmUgb2ZmZXIsIHJlZGVlbSEK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwcm9jZXNzZWRSZXN1bHRMaXN0X2luaXQoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uUmVzdWx0KFNlc3Npb24gc2Vzc2lvbikgewogICAgICAgIHRoaXMoc2Vzc2lvbiwgIiIsICIiLCAiIiwgMCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZGVlbWVkVmFsdWUgPSByZWRlZW1lZFZhbHVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vZmZlcklkID0gdGhpcy5zZWdtZW50SWQgPSB0aGlzLmNhbXBhaWduSWQgPSAiIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlnaWJsZU9mZmVycy5nZXQoMCkudmFsdWVSZW1haW5pbmcgPSAxMDsgLy8gJDEwIHJlbWFpbiBvbiB0aGUgZmlyc3Qgb2ZmZXIKCiAgICAgICAgdmFyIG9mZmVyID0gcmVkZWVtYWJsZU9mZmVyQ29kZVNlcnZpY2UuZ2V0TmV4dE9mZmVyRm9yTWF0Y2goZWxpZ2libGVPZmZlcnMpOwogICAgICAgIGFzc2VydFRoYXQob2ZmZXIuaWQpLmlzRXF1YWxUbygiMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWF0Y2hlZE9mZmVyICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -304,10 +296,10 @@
         <entry>spring-web</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry>w</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
