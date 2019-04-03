@@ -5,12 +5,12 @@
       <mark key="V" line="179" column="27" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/PostFormaServiceTest.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554281442102">
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554283789870">
         <mark key="'" line="33" column="62" />
-        <mark key="[" line="78" column="64" />
-        <mark key="]" line="78" column="63" />
-        <mark key="." line="78" column="63" />
-        <mark key="^" line="78" column="63" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="80" />
+        <mark key="^" line="50" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/config/RestClientConfig.java" timestamp="1552527168209">
         <mark key="[" line="56" column="5" />
@@ -168,12 +168,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/SessionResult.java" timestamp="1554282350074">
-        <mark key="'" line="26" column="42" />
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/SessionResult.java" timestamp="1554283712147">
+        <mark key="'" line="33" column="42" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ws/campaignmanager/controller/CampaignManagerController.java" timestamp="1552533126333">
         <mark key="[" line="4" column="58" />
@@ -261,40 +261,40 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>coinIn</text>
+        <text>returnValue</text>
       </register>
       <register name="/" type="4">
         <text>spring-web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZmluYWwgZG91YmxlIGNvaW5JbjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgZmluYWwgU3RyaW5nIGN1c3RvbWVySWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZS5jbGFzcwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Vzc2lvbiA9IHNlc3Npb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZShATm90TnVsbCBMb2dnZXIgbG9nZ2VyKSB7CiAgICAgICAgdGhpcy5sb2dnZXIgPSBsb2dnZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgZmluYWwgU2Vzc2lvbiBzZXNzaW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZShATm90TnVsbCBMb2dnZXIgbG9nZ2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZS5jbGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZShATm90TnVsbCBMb2dnZXIgbG9nZ2VyKSB7CiAgICAgICAgdGhpcy5sb2dnZXIgPSBsb2dnZXI7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5JbnN0YW50Owo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBSZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZShATm90TnVsbCBMb2dnZXIgbG9nZ2VyKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5JbnN0YW50Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RhbnQub2YoMjAxNywgTW9udGguQVBSSUwsIDEsIDExLCAzMCksCiAgICAgICAgICAgICAgICBJbnN0YW50Lm9mKDIwMTcsIE1vbnRoLkFQUklMLCAyLCAxMSwgMjkpLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RhbnQub2YoMjAxNywgTW9udGguQVBSSUwsIDEsIDExLCAzMCksCiAgICAgICAgICAgICAgICBJbnN0YW50Lm9mKDIwMTcsIE1vbnRoLkFQUklMLCAyLCAxMSwgMjkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
