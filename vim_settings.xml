@@ -2,59 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/ihub/core/restclient/src/test/java/com/vizexplorer/ihub/restclient/AuthenticationProviderTest.java" timestamp="1554671973709">
-        <mark key="'" line="43" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554083657891">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/OfferCodeController.java" timestamp="1554083381941" />
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignParametersController.java" timestamp="1554083437230">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/repository/CampaignParametersRepository.java" timestamp="1554083519341" />
-      <file name="/fragment.java" timestamp="1554671090023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceTest.java" timestamp="1554671779831">
-        <mark key="k" line="64" column="11" />
-        <mark key="[" line="56" column="39" />
-        <mark key="]" line="56" column="57" />
-        <mark key="." line="56" column="57" />
-        <mark key="^" line="56" column="57" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="43" column="23" filename="$USER_HOME$/Documents/ihub/core/restclient/src/test/java/com/vizexplorer/ihub/restclient/AuthenticationProviderTest.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBATm90TnVsbCBTZXNzaW9uUHJvY2Vzc29yU2VydmljZSBzZXNzaW9uUHJvY2Vzc29yU2VydmljZTsK</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoKICog</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cih3aGljaCBtYXkgaW5jbHVkZSwgYnV0IGlzIG5vdCBsaW1pdGVkIHRvLCBnYW1lVml64oSiIG1vZHVsZXMgZmxvb3JWaXrihKIsIGNybVZpeuKEoiwgYWltVml64oSiIGFuZCB2aXpEYXNoYm9hcmTihKIp</text>
-      </register>
-      <register name="-" type="4">
-        <text>sessionProcessorService</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
