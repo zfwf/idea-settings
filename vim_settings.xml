@@ -52,8 +52,8 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" timestamp="1554710302972">
-        <mark key="'" line="13" column="19" />
+      <file name="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" timestamp="1554711285863">
+        <mark key="'" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1554458333909">
         <mark key="'" line="240" column="4" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="71" column="40" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="105" column="62" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
@@ -303,6 +302,7 @@
       <jump line="19" column="22" filename="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" />
       <jump line="14" column="49" filename="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" />
       <jump line="13" column="19" filename="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" />
+      <jump line="37" column="11" filename="$USER_HOME$/vizexplorer/ihub/core/common/src/main/java/com/vizexplorer/ihub/config/IHubProperties.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
