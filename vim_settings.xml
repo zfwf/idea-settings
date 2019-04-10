@@ -24,13 +24,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554852464272">
-        <mark key="'" line="56" column="32" />
-        <mark key="[" line="169" column="70" />
-        <mark key="k" line="197" column="0" />
-        <mark key="]" line="169" column="70" />
-        <mark key="." line="168" column="64" />
-        <mark key="^" line="169" column="70" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554860498772">
+        <mark key="'" line="56" column="133" />
+        <mark key="[" line="165" column="35" />
+        <mark key="]" line="165" column="31" />
+        <mark key="." line="165" column="31" />
+        <mark key="^" line="165" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554848166300">
         <mark key="[" line="78" column="35" />
@@ -205,6 +204,13 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1554860457201">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+        <mark key="o" line="0" column="48" />
+      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/ApplicationTest.java" timestamp="1553823459883">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -258,11 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="29" filename="$USER_HOME$/vizexplorer/ihub/lookup/src/test/java/com/vizexplorer/ihub/LookupTestUtil.java" />
-      <jump line="89" column="57" filename="$USER_HOME$/vizexplorer/ihub/lookup/src/test/java/com/vizexplorer/ihub/LookupTestUtil.java" />
-      <jump line="32" column="9" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/RedeemableOfferCode.java" />
-      <jump line="106" column="69" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
-      <jump line="107" column="74" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="27" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="71" column="40" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="105" column="62" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
@@ -358,46 +359,51 @@
       <jump line="77" column="25" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="135" column="30" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/MatchSessionOfferServiceTest.java" />
       <jump line="393" column="27" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferServiceTest.java" />
+      <jump line="75" column="30" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/dto/SessionResult.java" />
+      <jump line="119" column="65" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
+      <jump line="82" column="45" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" />
+      <jump line="126" column="3" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
+      <jump line="57" column="133" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CampaignController</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOdWxsYWJsZSBTdHJpbmcgZ2V0SWQoKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBTdHJpbmcgZ2V0Q3VzdG9tZXJJZCgpOwoKICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOb3ROdWxsIFN0cmluZyBnZXRMb2NhdGlvbklkKCk7CgogIEBKc29uUHJvcGVydHkKICBwdWJsaWMgYWJzdHJhY3QgQE5vdE51bGwgU3RyaW5nIGdldFNlc3Npb25JZCgpOwoKICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOb3ROdWxsIGRvdWJsZSBnZXRBY3R1YWxXaW4oKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBkb3VibGUgZ2V0VGhlb1dpbigpOwoKICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOb3ROdWxsIGRvdWJsZSBnZXRDb2luSW4oKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBkb3VibGUgZ2V0UG9pbnRzRWFybmVkKCk7CgogIEBKc29uUHJvcGVydHkKICBwdWJsaWMgYWJzdHJhY3QgQE5vdE51bGwgU3RyaW5nIGdldE9mZmVySWQoKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBTdHJpbmcgZ2V0U2VnbWVudElkKCk7CgogIEBKc29uUHJvcGVydHkKICBwdWJsaWMgYWJzdHJhY3QgQE5vdE51bGwgU3RyaW5nIGdldENhbXBhaWduSWQoKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBkb3VibGUgZ2V0UmVkZWVtZWRWYWx1ZSgpOwoKICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOb3ROdWxsIEluc3RhbnQgZ2V0U3RhcnQoKTsKCiAgQEpzb25Qcm9wZXJ0eQogIHB1YmxpYyBhYnN0cmFjdCBATm90TnVsbCBJbnN0YW50IGdldEVuZCgpOwo=</text>
+      <register name="0" type="4">
+        <text>actualWin, theoWin, coinIn, pointsEarned, remainingRedeemedValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmNhbXBhaWduLmNvbnRyb2xsZXIuQ2FtcGFpZ25Db250cm9sbGVyOwppbXBvcnQgY29tLnZpemV4cGxvcmVyLmlodWIuY2FtcGFpZ24uc2VydmljZS5DYW1wYWlnblNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLnBvc3Rmb3JtYS5zZXJ2aWNlLk1hdGNoU2Vzc2lvbk9mZmVyU2VydmljZTsKaW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLnBvc3Rmb3JtYS5zZXJ2aWNlLlJlZGVlbWFibGVPZmZlckNvZGVTZXJ2aWNlOwppbXBvcnQgY29tLnZpemV4cGxvcmVyLmlodWIucG9zdGZvcm1hLnNlcnZpY2UuU2Vzc2lvblByb2Nlc3NvclNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLnBvc3Rmb3JtYS5zZXJ2aWNlLlJlZGVlbWFibGVPZmZlckNvZGVTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLnBvc3Rmb3JtYS5zZXJ2aWNlLk1hdGNoU2Vzc2lvbk9mZmVyU2VydmljZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETzogbW92ZSB0byBkdG8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlc3Npb25SZXN1bHQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tZXJJZChzZXNzaW9uLmdldEN1c3RvbWVySWQoKSkKICAgICAgICAgICAgICAgIC5zZXRTdGFydChzZXNzaW9uLmdldFN0YXJ0KCkpCiAgICAgICAgICAgICAgICAuc2V0RW5kKHNlc3Npb24uZ2V0RW5kKCkpCiAgICAgICAgICAgICAgICAuc2V0TG9jYXRpb25JZChzZXNzaW9uLmdldExvY2F0aW9uSWQoKSkKICAgICAgICAgICAgICAgIC5zZXRBY3R1YWxXaW4oYWN0dWFsV2luKQogICAgICAgICAgICAgICAgLnNldFRoZW9XaW4odGhlb1dpbikKICAgICAgICAgICAgICAgIC5zZXRDb2luSW4oY29pbkluKQogICAgICAgICAgICAgICAgLnNldFBvaW50c0Vhcm5lZChwb2ludHNFYXJuZWQpCiAgICAgICAgICAgICAgICAuc2V0UmVkZWVtZWRWYWx1ZShyZW1haW5pbmdSZWRlZW1lZFZhbHVlKQogICAgICAgICAgICAgICAgLnNldFNlc3Npb25JZChnZXRTZXNzaW9uSWQoc2Vzc2lvbikpCiAgICAgICAgICAgICAgICAuc2V0T2ZmZXJJZChvZmZlci5pZCkKICAgICAgICAgICAgICAgIC5zZXRTZWdtZW50SWQob2ZmZXIuc2VnbWVudElkKQogICAgICAgICAgICAgICAgLnNldENhbXBhaWduSWQob2ZmZXIuY2FtcGFpZ25JZCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlc3Npb25SZXN1bHQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tZXJJZChzZXNzaW9uLmdldEN1c3RvbWVySWQoKSkKICAgICAgICAgICAgICAgIC5zZXRTdGFydChzZXNzaW9uLmdldFN0YXJ0KCkpCiAgICAgICAgICAgICAgICAuc2V0RW5kKHNlc3Npb24uZ2V0RW5kKCkpCiAgICAgICAgICAgICAgICAuc2V0TG9jYXRpb25JZChzZXNzaW9uLmdldExvY2F0aW9uSWQoKSkKICAgICAgICAgICAgICAgIC5zZXRBY3R1YWxXaW4oMCkKICAgICAgICAgICAgICAgIC5zZXRUaGVvV2luKDApCiAgICAgICAgICAgICAgICAuc2V0Q29pbkluKDApCiAgICAgICAgICAgICAgICAuc2V0UG9pbnRzRWFybmVkKDApCiAgICAgICAgICAgICAgICAuc2V0UmVkZWVtZWRWYWx1ZShvZmZlci52YWx1ZVJlbWFpbmluZykKICAgICAgICAgICAgICAgIC5zZXRTZXNzaW9uSWQoZ2V0U2Vzc2lvbklkKHNlc3Npb24pKQogICAgICAgICAgICAgICAgLnNldE9mZmVySWQob2ZmZXIuaWQpCiAgICAgICAgICAgICAgICAuc2V0U2VnbWVudElkKG9mZmVyLnNlZ21lbnRJZCkKICAgICAgICAgICAgICAgIC5zZXRDYW1wYWlnbklkKG9mZmVyLmNhbXBhaWduSWQpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVE9ETzogbW92ZSB0byBkdG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOb3ROdWxsIGRvdWJsZSBhY3R1YWxXaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm90TnVsbCBkb3VibGUgdGhlb1dpbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOb3ROdWxsIGRvdWJsZSBjb2luSW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm90TnVsbCBkb3VibGUgcG9pbnRzRWFybmVkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
