@@ -31,6 +31,9 @@
         <mark key="^" line="218" column="51" />
         <mark key="." line="218" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub/core/dto/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicateImpl.java" timestamp="1554865556277">
+        <mark key="'" line="42" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554862143020">
         <mark key="[" line="78" column="8" />
         <mark key="]" line="78" column="16" />
@@ -70,8 +73,8 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub/core/interface/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicate.java" timestamp="1554863821681">
-        <mark key="'" line="31" column="44" />
+      <file name="$USER_HOME$/Documents/ihub/core/interface/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicate.java" timestamp="1554865488094">
+        <mark key="'" line="38" column="19" />
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="48" />
       </file>
@@ -224,6 +227,14 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/pom.xml" timestamp="1554865788139">
+        <mark key="'" line="17" column="0" />
+        <mark key="k" line="65" column="19" />
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="26" />
+        <mark key="^" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/campaign/RedeemableOfferCodeServiceTest.java" timestamp="1554280701934">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="43" />
@@ -272,9 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="24" filename="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-common/2.0.11/ihub-common-2.0.11-sources.jar!/com/vizexplorer/ihub/config/IHubProperties.java" />
-      <jump line="267" column="20" filename="/usr/lib/jvm/java-1.10.0-openjdk-amd64/lib/src.zip!/java.xml/org/w3c/dom/Node.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignReader.java" />
       <jump line="108" column="9" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/OfferCodeService.java" />
       <jump line="500" column="11" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/OfferCodeService.java" />
       <jump line="414" column="39" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/OfferCodeService.java" />
@@ -372,19 +380,22 @@
       <jump line="101" column="13" filename="$USER_HOME$/Documents/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferServiceTest.java" />
       <jump line="1216" column="13" filename="$USER_HOME$/Documents/ihub/core/vpconnector/src/main/java/com/vizexplorer/ihub/vizprocessor/VizProcessorHelper.java" />
       <jump line="31" column="44" filename="$USER_HOME$/Documents/ihub/core/interface/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicate.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/ihub-campaign/pom.xml" />
+      <jump line="38" column="19" filename="$USER_HOME$/Documents/ihub/core/interface/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicate.java" />
+      <jump line="42" column="63" filename="$USER_HOME$/Documents/ihub/core/dto/src/main/java/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicateImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0Y2hvZmZlciA=</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
-        <text>hashmap</text>
+        <text>dependency</text>
       </register>
-      <register name="0" type="4">
-        <text>com.vizexplorer.ihub.dto.restrictionquery</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnZpemV4cGxvcmVyLndzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5paHViLWludGVyZmFjZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjExPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmR0by5yZXN0cmljdGlvbnF1ZXJ5Owo=</text>
@@ -418,15 +429,14 @@
       </register>
     </registers>
     <search>
-      <last-search>hashmap</last-search>
+      <last-search>dependency</last-search>
       <last-offset />
-      <last-pattern>hashmap</last-pattern>
+      <last-pattern>dependency</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gettemplate</entry>
         <entry>getresttemplate</entry>
         <entry>stringutils</entry>
         <entry>spring</entry>
@@ -446,6 +456,7 @@
         <entry>template</entry>
         <entry>auto</entry>
         <entry>hashmap</entry>
+        <entry>dependency</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
