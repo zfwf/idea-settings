@@ -215,9 +215,9 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554863202984">
+      <file name="/Dummy.txt" timestamp="1554866001045">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="37" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
         <mark key="o" line="0" column="48" />
@@ -227,13 +227,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/pom.xml" timestamp="1554865788139">
+      <file name="$USER_HOME$/Documents/ihub-campaign/pom.xml" timestamp="1554866309041">
         <mark key="'" line="17" column="0" />
-        <mark key="k" line="65" column="19" />
-        <mark key="[" line="68" column="25" />
-        <mark key="]" line="68" column="26" />
-        <mark key="^" line="68" column="26" />
-        <mark key="." line="68" column="26" />
+        <mark key="k" line="65" column="0" />
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="42" column="54" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="42" column="54" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/campaign/RedeemableOfferCodeServiceTest.java" timestamp="1554280701934">
         <mark key="[" line="29" column="42" />
@@ -389,7 +389,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>dependency</text>
@@ -398,31 +398,31 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnZpemV4cGxvcmVyLndzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5paHViLWludGVyZmFjZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjExPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmR0by5yZXN0cmljdGlvbnF1ZXJ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBNYXAub2YoImN1c3RvbWVyMSIsIGVsaWdpYmxlT2ZmZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnZpemV4cGxvcmVyLndzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5paHViLWR0bzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjExPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmR0by5yZXN0cmljdGlvbnF1ZXJ5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBNYXAub2YoImN1c3RvbWVyMSIsIGVsaWdpYmxlT2ZmZXJzKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyT2ZmZXJNYXAucHV0KCJjdXN0b21lcjEiLCBlbGlnaWJsZU9mZmVycyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBNYXAub2YoImN1c3RvbWVyMSIsIGVsaWdpYmxlT2ZmZXJzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVkZWVtYWJsZU9mZmVyQ29kZVNlcnZpY2UudXBkYXRlQ3VzdG9tZXJPZmZlcnMoY3VzdG9tZXJPZmZlcnMpKTsK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyT2ZmZXJNYXAucHV0KCJjdXN0b21lcjEiLCBlbGlnaWJsZU9mZmVycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
