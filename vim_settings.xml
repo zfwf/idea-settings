@@ -24,18 +24,18 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554861479673">
-        <mark key="'" line="56" column="133" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="82" column="117" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554863014273">
+        <mark key="'" line="212" column="59" />
+        <mark key="[" line="216" column="44" />
+        <mark key="]" line="218" column="51" />
+        <mark key="^" line="218" column="51" />
+        <mark key="." line="218" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554848166300">
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="78" column="44" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="78" column="35" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" timestamp="1554862143020">
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="16" />
+        <mark key="^" line="78" column="16" />
+        <mark key="." line="78" column="16" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/CampaignOfferCode.java" timestamp="1554085469445">
         <mark key="[" line="12" column="0" />
@@ -147,11 +147,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="92" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferServiceTest.java" timestamp="1554762389400">
-        <mark key="[" line="453" column="24" />
-        <mark key="]" line="453" column="25" />
-        <mark key="^" line="453" column="25" />
-        <mark key="." line="453" column="25" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferServiceTest.java" timestamp="1554863113191">
+        <mark key="'" line="101" column="13" />
+        <mark key="k" line="424" column="4" />
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
+        <mark key="^" line="385" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/test/resources/dataset/newResults.json" timestamp="1554762543200">
         <mark key="k" line="1" column="2" />
@@ -204,11 +206,11 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554861513269">
+      <file name="/Dummy.txt" timestamp="1554863202984">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
         <mark key="o" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/ApplicationTest.java" timestamp="1553823459883">
@@ -264,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
-      <jump line="71" column="40" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
-      <jump line="105" column="62" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="83" column="40" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="85" column="60" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="196" column="24" filename="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-common/2.0.11/ihub-common-2.0.11-sources.jar!/com/vizexplorer/ihub/config/IHubProperties.java" />
@@ -364,61 +362,64 @@
       <jump line="82" column="45" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" />
       <jump line="126" column="3" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="57" column="133" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
+      <jump line="64" column="48" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
+      <jump line="212" column="59" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
+      <jump line="63" column="39" filename="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/RedeemableOfferCodeService.java" />
+      <jump line="101" column="13" filename="$USER_HOME$/Documents/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">bWF0Y2hvZmZlciA=</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>hashmap</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxTZXNzaW9uUmVzdWx0Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCkge3sKICAgICAgcHV0KCJjdXN0b21lcjEiLCBlbGlnaWJsZU9mZmVycyk7CiAgICB9fTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBNYXAub2YoImN1c3RvbWVyMSIsIGVsaWdpYmxlT2ZmZXJzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm90TnVsbCBMaXN0PFNlc3Npb25SZXN1bHQ+IHJlc3VsdHMsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlc3Npb25SZXN1bHQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tZXJJZChzZXNzaW9uLmdldEN1c3RvbWVySWQoKSkKICAgICAgICAgICAgICAgIC5zZXRTdGFydChzZXNzaW9uLmdldFN0YXJ0KCkpCiAgICAgICAgICAgICAgICAuc2V0RW5kKHNlc3Npb24uZ2V0RW5kKCkpCiAgICAgICAgICAgICAgICAuc2V0TG9jYXRpb25JZChzZXNzaW9uLmdldExvY2F0aW9uSWQoKSkKICAgICAgICAgICAgICAgIC5zZXRBY3R1YWxXaW4oYWN0dWFsV2luKQogICAgICAgICAgICAgICAgLnNldFRoZW9XaW4odGhlb1dpbikKICAgICAgICAgICAgICAgIC5zZXRDb2luSW4oY29pbkluKQogICAgICAgICAgICAgICAgLnNldFBvaW50c0Vhcm5lZChwb2ludHNFYXJuZWQpCiAgICAgICAgICAgICAgICAuc2V0UmVkZWVtZWRWYWx1ZShyZW1haW5pbmdSZWRlZW1lZFZhbHVlKQogICAgICAgICAgICAgICAgLnNldFNlc3Npb25JZChnZXRTZXNzaW9uSWQoc2Vzc2lvbikpCiAgICAgICAgICAgICAgICAuc2V0T2ZmZXJJZChvZmZlci5pZCkKICAgICAgICAgICAgICAgIC5zZXRTZWdtZW50SWQob2ZmZXIuc2VnbWVudElkKQogICAgICAgICAgICAgICAgLnNldENhbXBhaWduSWQob2ZmZXIuY2FtcGFpZ25JZCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBNYXAub2YoImN1c3RvbWVyMSIsIGVsaWdpYmxlT2ZmZXJzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGN1c3RvbWVyT2ZmZXJNYXAucHV0KCJjdXN0b21lcjEiLCBlbGlnaWJsZU9mZmVycyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8UmVkZWVtYWJsZU9mZmVyQ29kZT4+IGN1c3RvbWVyT2ZmZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVkZWVtYWJsZU9mZmVyQ29kZVNlcnZpY2UudXBkYXRlQ3VzdG9tZXJPZmZlcnMoY3VzdG9tZXJPZmZlcnMpKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH19Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>hashmap</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>hashmap</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jks</entry>
         <entry>gettemplate</entry>
         <entry>getresttemplate</entry>
         <entry>stringutils</entry>
@@ -438,6 +439,7 @@
         <entry>mapper</entry>
         <entry>template</entry>
         <entry>auto</entry>
+        <entry>hashmap</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
