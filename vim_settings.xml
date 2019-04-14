@@ -11,6 +11,9 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1555282669400">
+        <mark key="[" line="108" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1554936829886">
         <mark key="'" line="110" column="27" />
         <mark key="[" line="209" column="26" />
@@ -70,13 +73,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-restclient/2.0.11/ihub-restclient-2.0.11.jar!/com/vizexplorer/ihub/restclient/JsonConnector.class" timestamp="1554868960807">
         <mark key="'" line="98" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/dto/SessionResult.java" timestamp="1554858508145">
-        <mark key="[" line="33" column="0" />
-        <mark key="k" line="33" column="14" />
-        <mark key="]" line="73" column="44" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/core/common/src/test/java/com/vizexplorer/ihub/predicate/PredicateNormalizerTest.java" timestamp="1554867641413">
         <mark key="k" line="389" column="46" />
