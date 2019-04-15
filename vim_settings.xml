@@ -178,11 +178,11 @@
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555302358220">
+      <file name="/Dummy.txt" timestamp="1555365042763">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="13" />
         <mark key="o" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignConnector.java" timestamp="1555297115884">
@@ -199,11 +199,12 @@
         <mark key="^" line="160" column="67" />
         <mark key="." line="160" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" timestamp="1555363735703">
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="31" />
-        <mark key="." line="59" column="31" />
-        <mark key="^" line="59" column="31" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" timestamp="1555364994979">
+        <mark key="[" line="79" column="35" />
+        <mark key="k" line="78" column="11" />
+        <mark key="]" line="79" column="58" />
+        <mark key="." line="79" column="58" />
+        <mark key="^" line="79" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/pom.xml" timestamp="1554867434577">
         <mark key="'" line="17" column="0" />
@@ -361,13 +362,13 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MockBean</text>
+        <text>tests</text>
       </register>
       <register name="/" type="4">
         <text>gethardexep</text>
       </register>
       <register name="0" type="4">
-        <text>CampaignVizProcessorConnectorService</text>
+        <text>VizProcessorXMLConnector</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IENhbXBhaWduUHJveHlQcm9wZXJ0aWVzIAo=</text>
