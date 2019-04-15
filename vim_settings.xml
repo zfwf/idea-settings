@@ -15,13 +15,13 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1555300594570">
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1555302337280">
         <mark key="'" line="247" column="65" />
-        <mark key="[" line="296" column="41" />
+        <mark key="[" line="237" column="57" />
         <mark key="k" line="296" column="66" />
-        <mark key="]" line="296" column="41" />
-        <mark key="^" line="319" column="40" />
-        <mark key="." line="296" column="41" />
+        <mark key="]" line="234" column="19" />
+        <mark key="^" line="234" column="19" />
+        <mark key="." line="234" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignVizProcessorProvider.java" timestamp="1555293806363">
         <mark key="'" line="7" column="63" />
@@ -178,7 +178,7 @@
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555298283398">
+      <file name="/Dummy.txt" timestamp="1555302358220">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -361,7 +361,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Today</text>
+        <text>createDateFromStartPredicateString</text>
       </register>
       <register name="/" type="4">
         <text>gethardexep</text>
