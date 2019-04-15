@@ -70,8 +70,12 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1555284362565">
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1555287440790">
         <mark key="'" line="127" column="65" />
+        <mark key="[" line="212" column="61" />
+        <mark key="]" line="212" column="67" />
+        <mark key="." line="212" column="67" />
+        <mark key="^" line="212" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-restclient/2.0.11/ihub-restclient-2.0.11.jar!/com/vizexplorer/ihub/restclient/JsonConnector.class" timestamp="1554868960807">
         <mark key="'" line="98" column="60" />
@@ -117,7 +121,7 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="45" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554871091323">
+      <file name="/Dummy.txt" timestamp="1555285991270">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -252,22 +256,22 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Redemption</text>
+        <text>hardExpense</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text>gethardexep</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5CiAgcHVibGljIGFic3RyYWN0IEBOb3ROdWxsIFN0cmluZyBnZXRSZWRlbXB0aW9uU2Vzc2lvbkRhdGFTb3VyY2VJZCgpOwo=</text>
+      <register name="0" type="4">
+        <text>sessionDataSourceId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnNldEhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkKGhhcmRFeHBlbnNlSWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -276,31 +280,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnF1ZXJ5UGFyYW0oInJlc3RyaWN0aW9uIiwgY3JlYXRlRGF0ZUZyb21Ub2RheVByZWRpY2F0ZVN0cmluZyhwcm9jZXNzaW5nU3RhcnQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGZpbHRlciBieSBwcm9jZXNzaW5nU3RhcnQK</text>
+        <text encoding="base64">ICAgICAgLnF1ZXJ5UGFyYW0oInJlc3RyaWN0aW9uIiwgY3JlYXRlRGF0ZUZyb21Ub2RheVByZWRpY2F0ZVN0cmluZyhwcm9jZXNzaW5nU3RhcnQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb2RlaGF1cy5qYWNrc29uLkpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGZpbHRlciBieSBwcm9jZXNzaW5nU3RhcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb2RlaGF1cy5qYWNrc29uLkpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search>gethardexep</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern>gethardexep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spring-web</entry>
         <entry>lookupdateset</entry>
         <entry>lookup</entry>
         <entry>tobuilder</entry>
@@ -320,6 +323,7 @@
         <entry>getmultiple</entry>
         <entry>operation</entry>
         <entry>query</entry>
+        <entry>gethardexep</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
