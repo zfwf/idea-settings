@@ -199,11 +199,11 @@
         <mark key="^" line="160" column="67" />
         <mark key="." line="160" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" timestamp="1555299019675">
-        <mark key="[" line="94" column="28" />
-        <mark key="]" line="94" column="28" />
-        <mark key="." line="94" column="28" />
-        <mark key="^" line="94" column="49" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" timestamp="1555363735703">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="31" />
+        <mark key="^" line="59" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/pom.xml" timestamp="1554867434577">
         <mark key="'" line="17" column="0" />
@@ -361,40 +361,40 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>createDateFromStartPredicateString</text>
+        <text>MockBean</text>
       </register>
       <register name="/" type="4">
         <text>gethardexep</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGZvcm1hdHRlciA9IGdldERhdGVGb3JtYXR0ZXIoKTsK</text>
+      <register name="0" type="4">
+        <text>CampaignVizProcessorConnectorService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCIpLndpdGhab25lKFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpOwo=</text>
+        <text encoding="base64">IENhbXBhaWduUHJveHlQcm9wZXJ0aWVzIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAuY2xhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTGl0ZXJhbE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXRWYWx1ZShwZXJpb2RTdGFydFN0cmluZykuYnVpbGQoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCIpLndpdGhab25lKFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBkb0RlZmF1bHRQcm9jZXNzaW5nKCkgewogICAgdGhpcy5wcm9jZXNzQW5kU2F2ZVNlc3Npb25zKDYwKTsKICB9CgogIHB1YmxpYyB2b2lkIHByb2Nlc3NBbmRTYXZlU2Vzc2lvbnMoQE5vdE51bGwgaW50IGRheXNBZ28pIHsKICAgIHZhciBwcm9jZXNzU3RhcnQgPSBJbnN0YW50Lm5vdygpLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykubWludXMoNjAsIENocm9ub1VuaXQuREFZUyk7CiAgICB0aGlzLnByb2Nlc3NBbmRTYXZlU2Vzc2lvbnMocHJvY2Vzc1N0YXJ0KTsKICB9CgogIHByaXZhdGUgdm9pZCBwcm9jZXNzQW5kU2F2ZVNlc3Npb25zKEBOb3ROdWxsIEluc3RhbnQgcHJvY2Vzc2luZ1N0YXJ0KSB7CiAgICB2YXIgcmVzdWx0cyA9IHByb2Nlc3NTZXNzaW9ucyhwcm9jZXNzaW5nU3RhcnQpOwogICAgc2F2ZVJlc3VsdHMocmVzdWx0cyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgTGl0ZXJhbE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXRWYWx1ZShwZXJpb2RTdGFydFN0cmluZykuYnVpbGQoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnMuZ3JvdXBpbmdCeTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBkb0RlZmF1bHRQcm9jZXNzaW5nKCkgewogICAgdGhpcy5wcm9jZXNzQW5kU2F2ZVNlc3Npb25zKDYwKTsKICB9CgogIHB1YmxpYyB2b2lkIHByb2Nlc3NBbmRTYXZlU2Vzc2lvbnMoQE5vdE51bGwgaW50IGRheXNBZ28pIHsKICAgIHZhciBwcm9jZXNzU3RhcnQgPSBJbnN0YW50Lm5vdygpLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykubWludXMoNjAsIENocm9ub1VuaXQuREFZUyk7CiAgICB0aGlzLnByb2Nlc3NBbmRTYXZlU2Vzc2lvbnMocHJvY2Vzc1N0YXJ0KTsKICB9CgogIHByaXZhdGUgdm9pZCBwcm9jZXNzQW5kU2F2ZVNlc3Npb25zKEBOb3ROdWxsIEluc3RhbnQgcHJvY2Vzc2luZ1N0YXJ0KSB7CiAgICB2YXIgcmVzdWx0cyA9IHByb2Nlc3NTZXNzaW9ucyhwcm9jZXNzaW5nU3RhcnQpOwogICAgc2F2ZVJlc3VsdHMocmVzdWx0cyk7CiAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnMuZ3JvdXBpbmdCeTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
@@ -471,6 +471,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
