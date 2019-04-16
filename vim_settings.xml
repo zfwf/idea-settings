@@ -11,13 +11,13 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignVizProcessorConnectorService.java" timestamp="1555366187397" />
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1555302337280">
-        <mark key="'" line="247" column="65" />
-        <mark key="[" line="237" column="57" />
-        <mark key="k" line="296" column="66" />
-        <mark key="]" line="234" column="19" />
-        <mark key="^" line="234" column="19" />
-        <mark key="." line="234" column="19" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1555382643317">
+        <mark key="'" line="342" column="21" />
+        <mark key="[" line="125" column="31" />
+        <mark key="k" line="113" column="29" />
+        <mark key="]" line="125" column="31" />
+        <mark key="^" line="125" column="60" />
+        <mark key="." line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignVizProcessorProvider.java" timestamp="1555293806363">
         <mark key="'" line="7" column="63" />
@@ -251,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="35" filename="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-restclient/2.0.11/ihub-restclient-2.0.11-sources.jar!/com/vizexplorer/ihub/restclient/JsonConnector.java" />
-      <jump line="109" column="75" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
-      <jump line="89" column="148" filename="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-restclient/2.0.11/ihub-restclient-2.0.11-sources.jar!/com/vizexplorer/ihub/restclient/JsonConnector.java" />
       <jump line="113" column="25" filename="$USER_HOME$/vizexplorer/ihub/forms/src/main/java/com/vizexplorer/ihub/forms/event/service/FormVizProcessorService.java" />
       <jump line="112" column="5" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="148" column="62" filename="$USER_HOME$/vizexplorer/ihub/forms/src/main/java/com/vizexplorer/ihub/forms/event/service/FormVizProcessorService.java" />
@@ -351,19 +348,22 @@
       <jump line="111" column="23" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="116" column="55" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" />
       <jump line="130" column="51" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" />
+      <jump line="126" column="20" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
+      <jump line="1252" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Instant.java" />
+      <jump line="342" column="21" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>10m71uiq</text>
+        <text>.truncatedTo(ChronoUnit.DAYS)</text>
       </register>
       <register name="/" type="4">
         <text>gethardexep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQmVmb3JlCiAgcHVibGljIHZvaWQgc2V0VXAoKQogIHsKICAgIERvY3VtZW50IGNhbXBhaWduc0RvY3VtZW50ID0gQ2FtcGFpZ25YTUxIZWxwZXIuZ2V0RG9jdW1lbnRGcm9tWE1MKCJ2aXpwcm9jZXNzb3IiLCAiY2FtcGFpZ25zLnhtbCIpOwogICAgd2hlbih0aGlzLnZpelByb2Nlc3NvclhNTENvbm5lY3Rvci5yZXRyaWV2ZVhNTChhbnkoKSkpLnRoZW5SZXR1cm4oY2FtcGFpZ25zRG9jdW1lbnQpOwogIH0K</text>
+        <text encoding="base64">ICAgIExpc3Q8U2Vzc2lvbj4gc2Vzc2lvbnMgPSBnZXRTZXNzaW9uc0ZvclByb2Nlc3NpbmdGcm9tRGF0ZVBlcmlvZChwcm9jZXNzaW5nU3RhcnQsIHByb2Nlc3NpbmdFbmQpOwoKICAgIHJldHVybiBwcm9jZXNzU2Vzc2lvbnMoY3VzdG9tZXJPZmZlcnNNYXAsIHNlc3Npb25zKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
