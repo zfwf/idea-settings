@@ -16,6 +16,11 @@
         <mark key="." line="63" column="3" />
         <mark key="^" line="63" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/config/asgard/application_edu.properties" timestamp="1556580779970">
+        <mark key="k" line="33" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" timestamp="1556577714722">
         <mark key="'" line="140" column="23" />
         <mark key="j" line="237" column="29" />
@@ -44,6 +49,26 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
         <mark key="^" line="82" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/CampaignImpl.java" timestamp="1555463960150">
+        <mark key="k" line="54" column="2" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="54" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/dto/Campaign.java" timestamp="1554697250103">
+        <mark key="k" line="13" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/test/java/com/vizexplorer/ihub/campaign/proxy/config/CampaignProxyPropertiesTest.java" timestamp="1555366769362">
+        <mark key="[" line="21" column="0" />
+        <mark key="k" line="21" column="33" />
+        <mark key="]" line="29" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/dds/src/main/java/com/vizexplorer/ihub/config/DataDeliveryServiceAutoStart.java" timestamp="1556490605835">
+        <mark key="k" line="21" column="2" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="80" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/dds/src/main/java/com/vizexplorer/ihub/dds/controller/CacheDataSourceController.java" timestamp="1556496288125">
         <mark key="'" line="219" column="78" />
@@ -91,6 +116,11 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/test/java/com/vizexplorer/ihub/campaign/proxy/service/CampaignConnectorServiceTest.java" timestamp="1555368024176">
+        <mark key="[" line="55" column="0" />
+        <mark key="k" line="55" column="8" />
+        <mark key="]" line="60" column="3" />
+      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/dto/Session.java" timestamp="1554465269673">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -101,10 +131,30 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub/core/common/src/test/java/com/vizexplorer/ihub/predicate/PredicateNormalizerTest.java" timestamp="1554867641413">
+        <mark key="k" line="389" column="46" />
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="390" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/src/test/resources/dataset/newResults.json" timestamp="1554762543200">
+        <mark key="k" line="1" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/Segment.java" timestamp="1552862644003">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/config/RestClientProperties.java" timestamp="1555281688665">
+        <mark key="k" line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/pom.xml" timestamp="1555552026948">
+        <mark key="k" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="67" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/dto/HardExpenses.java" timestamp="1554697908212">
         <mark key="[" line="17" column="33" />
@@ -136,11 +186,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/config/asgard/application.properties" timestamp="1556578287822">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/config/asgard/application.properties" timestamp="1556580852935">
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="29" />
+        <mark key="^" line="73" column="29" />
+        <mark key="." line="73" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceProcessTest.java" timestamp="1555387450739">
         <mark key="'" line="119" column="69" />
@@ -162,6 +212,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub/lookup/src/test/java/com/vizexplorer/ihub/lookup/service/processor/LookupServiceIHubTest.java" timestamp="1554674940074">
+        <mark key="[" line="67" column="0" />
+        <mark key="k" line="67" column="0" />
+        <mark key="]" line="68" column="52" />
+      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/resources/dataset/newResults.json" timestamp="1554456623958">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="26" />
@@ -175,7 +230,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/PostFormaServiceTest.java" timestamp="1556492457817" />
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/config/CampaignProxyProperties.java" timestamp="1556509471346">
         <mark key="'" line="25" column="31" />
         <mark key="[" line="77" column="0" />
@@ -295,40 +349,40 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>asgard.internal.bis2.net</text>
+        <text>KEYCLOAK</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWh1Yi5yZW1vdGVbMV0ucmVzdENvbnRleHRVUkwgPSBodHRwOi8vYXNnYXJkLmludGVybmFsLmJpczIubmV0L2lodWIKaWh1Yi5yZW1vdGVbMV0uYXV0aE1ldGhvZD1LRVlDTE9BSwppaHViLnJlbW90ZVsxXS51c2VyTmFtZT1pcmluYQppaHViLnJlbW90ZVsxXS5wYXNzd29yZD1kZXZlbG9wZXIK</text>
+        <text encoding="base64">CiMgS2V5Q2xvYWsgY29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWh1Yi5yZW1vdGVbMl0ucmVzdENvbnRleHRVUkwgPSBodHRwOi8vbG9jYWxob3N0OjgwODAvaWh1YgppaHViLnJlbW90ZVsyXS5hdXRoTWV0aG9kPUtFWUNMT0FLCmlodWIucmVtb3RlWzJdLnVzZXJOYW1lPWlyaW5hCmlodWIucmVtb3RlWzJdLnBhc3N3b3JkPWRldmVsb3Blcgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmlodWIucmVtb3RlWzFdLmF1dGhNZXRob2Q9Q0xJRU5UCmlodWIucmVtb3RlWzFdLnVzZXJOYW1lPXNlcnZpY2UKaWh1Yi5yZW1vdGVbMV0ucGFzc3dvcmQ9c2VydmljZQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIENPUkUgLSBNRVNTQUdFIFFVRVVFIENPTkZJR1VSQVRJT04KIyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyBUaGUgcXVldWUgc2VydmVyIChjb25maWd1cmVkIGJ5IHNwcmluZykKc3ByaW5nLnJhYmJpdG1xLmhvc3Q9YXNnYXJkLmludGVybmFsLmJpczIubmV0CnNwcmluZy5yYWJiaXRtcS5wb3J0PTU2NzIKc3ByaW5nLnJhYmJpdG1xLnVzZXJuYW1lPWFkbWluCnNwcmluZy5yYWJiaXRtcS5wYXNzd29yZD1hZG1pbgoKIyBTZW5kaW5nIG1lc3NhZ2VzIChFeGNoYW5nZXMpCmlodWIucXVldWUucHVibGlzaC5nZW5lcmFsPWlodWJfcGVyc29fZWR1YXJkb19nZW5lcmFsCgojIFJlY2VpdmluZyBtZXNzYWdlcyAoUXVldWVzKQppaHViLnF1ZXVlLnJlY2VpdmUuZGRzPWlodWJfcGVyc29fZWR1YXJkb19kZHMKaWh1Yi5xdWV1ZS5yZWNlaXZlLmRiYz1paHViX3BlcnNvX2VkdWFyZG9fZGJjCmlodWIucXVldWUucmVjZWl2ZS52aXpxbD1paHViX3BlcnNvX2VkdWFyZG9fdml6cWwKaWh1Yi5xdWV1ZS5yZWNlaXZlLnByb3h5PWlodWJfcGVyc29fZWR1YXJkb19wcm94eQppaHViLnF1ZXVlLnJlY2VpdmUuZm9ybXM9aWh1Yl9wZXJzb19lZHVhcmRvX2Zvcm1zCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgppaHViLmNvbmZpZ3VyYXRpb25wcm94eS5wcm92aWRlcnNbMF0ubmFtZT1JSHViIHNlcnZlcgppaHViLmNvbmZpZ3VyYXRpb25wcm94eS5wcm92aWRlcnNbMF0udHlwZT1JSFVCCmlodWIuY29uZmlndXJhdGlvbnByb3h5LnByb3ZpZGVyc1swXS5VUkk9aHR0cDovL2FzZ2FyZC5pbnRlcm5hbC5iaXMyLm5ldC9paHVi</text>
+      <register name="4" type="2">
+        <text encoding="base64">CgoKIyBEZWZhdWx0IHRpbWUgdG8gbGl2ZSBvZiB0aGUgZGF0YSBpbiB0aGUgY2FjaGUKaWh1Yi5kZHMuZGVmYXVsdFRpbWVUb0xpdmU9ODY0MDAwMDAKCmlodWIuZGRzLmRiPWpkYmMKaWh1Yi5kZHMuamRiYy51cmw9amRiYzpoMjptZW06dGVzdDtEQl9DTE9TRV9ERUxBWT0tMTtUUkFDRV9MRVZFTF9TWVNURU1fT1VUPTEKaWh1Yi5kZHMuamRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLmgyLkRyaXZlcgppaHViLmRkcy5qZGJjLnVzZXJuYW1lPXNhCmlodWIuZGRzLmpkYmMucGFzc3dvcmQ9CgojIFRoZSB0aW1lem9uZSBvZiB0aGUgZGF0YWJhc2UKaWh1Yi5kYmMuZGVmYXVsdFRpbWVab25lLnRpbWVab25lPUV0Yy9VVEMKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFByb3BlcnRpZXMgdG8gZGVidWcKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIEVuYWJsaW5nIEZvcm1Db2xvciBpbiBsb2dzCnNwcmluZy5vdXRwdXQuYW5zaS5lbmFibGVkPUFMV0FZUwojIEVuYWJsaW5nIEgyIENvbnNvbGUKc3ByaW5nLmgyLmNvbnNvbGUuZW5hYmxlZD10cnVlCnNwcmluZy5oMi5jb25zb2xlLnBhdGg9L2gyCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBSb2xlcwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmlodWIuYXV0aG9yaXNhdGlvblByb3BlcnRpZXMudml6Um9sZU5hbWVzWzBdPUJJUzJ1c2VyCmlodWIuYXV0aG9yaXNhdGlvblByb3BlcnRpZXMudml6Um9sZU5hbWVzWzFdPUJJUzJhZG1pbgppaHViLmF1dGhvcmlzYXRpb25Qcm9wZXJ0aWVzLnZpelJvbGVOYW1lc1syXT1TeXN0ZW1BZG1pbgppaHViLmF1dGhvcmlzYXRpb25Qcm9wZXJ0aWVzLnZpelJvbGVOYW1lc1szXT1ob3N0CmlodWIuYXV0aG9yaXNhdGlvblByb3BlcnRpZXMudml6Um9sZU5hbWVzWzRdPWhvc3RtYW5hZ2VyCgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aWh1Yi5hdWRpZW5jZS5tb25nby5zZXJ2ZXI9YXNnYXJkLmludGVybmFsLmJpczIubmV0CmlodWIuYXVkaWVuY2UubW9uZ28ucG9ydD0yNzAxNwppaHViLmF1ZGllbmNlLm1vbmdvLmRhdGFiYXNlTmFtZT1hdWRpZW5jZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0UGFyYW0gTG9jYWxEYXRlIHBlcmlvZEVuZCwK</text>
+        <text encoding="base64">IyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIENPUkUgLSBQRVJTSVNURU5DRSBDT05GSUdVUkFUSU9OIC0gTU9OR09EQgojICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCmlodWIubW9uZ28uZGF0YWJhc2VOYW1lPWVkdWFyZG8tbWlncmF0aW9uCmlodWIubW9uZ28uc2VydmVyPWFzZ2FyZC5pbnRlcm5hbC5iaXMyLm5ldAppaHViLm1vbmdvLnBvcnQ9MjcwMTcKCmlodWIuYXVkaWVuY2UubW9uZ28uc2VydmVyPWFzZ2FyZC5pbnRlcm5hbC5iaXMyLm5ldAppaHViLmF1ZGllbmNlLm1vbmdvLnBvcnQ9MjcwMTcKaWh1Yi5hdWRpZW5jZS5tb25nby5kYXRhYmFzZU5hbWU9YXVkaWVuY2UK</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
