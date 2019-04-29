@@ -25,9 +25,6 @@
         <mark key="^" line="162" column="12" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556490167800">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFOService.java" timestamp="1556511906336">
         <mark key="'" line="56" column="74" />
         <mark key="k" line="66" column="33" />
@@ -41,31 +38,12 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" timestamp="1556573229161">
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="92" column="35" />
-        <mark key="." line="92" column="35" />
-        <mark key="^" line="92" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/CampaignImpl.java" timestamp="1555463960150">
-        <mark key="k" line="54" column="2" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="54" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/dto/Campaign.java" timestamp="1554697250103">
-        <mark key="k" line="13" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/test/java/com/vizexplorer/ihub/campaign/proxy/config/CampaignProxyPropertiesTest.java" timestamp="1555366769362">
-        <mark key="[" line="21" column="0" />
-        <mark key="k" line="21" column="33" />
-        <mark key="]" line="29" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub/dds/src/main/java/com/vizexplorer/ihub/config/DataDeliveryServiceAutoStart.java" timestamp="1556490605835">
-        <mark key="k" line="21" column="2" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="80" column="3" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" timestamp="1556575562831">
+        <mark key="'" line="81" column="11" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="82" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/ihub/dds/src/main/java/com/vizexplorer/ihub/dds/controller/CacheDataSourceController.java" timestamp="1556496288125">
         <mark key="'" line="219" column="78" />
@@ -113,11 +91,6 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/test/java/com/vizexplorer/ihub/campaign/proxy/service/CampaignConnectorServiceTest.java" timestamp="1555368024176">
-        <mark key="[" line="55" column="0" />
-        <mark key="k" line="55" column="8" />
-        <mark key="]" line="60" column="3" />
-      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/dto/Session.java" timestamp="1554465269673">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -128,35 +101,22 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub/core/common/src/test/java/com/vizexplorer/ihub/predicate/PredicateNormalizerTest.java" timestamp="1554867641413">
-        <mark key="k" line="389" column="46" />
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="390" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/src/test/resources/dataset/newResults.json" timestamp="1554762543200">
-        <mark key="k" line="1" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="18" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/ihub/campaign/src/main/java/com/vizexplorer/ihub/campaign/service/Segment.java" timestamp="1552862644003">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub/core/restclient/src/main/java/com/vizexplorer/ihub/config/RestClientProperties.java" timestamp="1555281688665">
-        <mark key="k" line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/pom.xml" timestamp="1555552026948">
-        <mark key="k" line="39" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="67" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/dto/HardExpenses.java" timestamp="1554697908212">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/DateConversionService.java" timestamp="1556574935507">
+        <mark key="k" line="13" column="63" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/config/PostFormaConfig.java" timestamp="1556495604110">
         <mark key="[" line="34" column="0" />
@@ -204,11 +164,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub/lookup/src/test/java/com/vizexplorer/ihub/lookup/service/processor/LookupServiceIHubTest.java" timestamp="1554674940074">
-        <mark key="[" line="67" column="0" />
-        <mark key="k" line="67" column="0" />
-        <mark key="]" line="68" column="52" />
-      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/resources/dataset/newResults.json" timestamp="1554456623958">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="26" />
@@ -236,10 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="47" filename="$MAVEN_REPOSITORY$/com/vizexplorer/ws/ihub-dto/2.0.11/ihub-dto-2.0.11.jar!/com/vizexplorer/ihub/dto/restrictionquery/QueryPredicateImpl.class" />
-      <jump line="297" column="20" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
-      <jump line="420" column="21" filename="$MAVEN_REPOSITORY$/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar!/edu/emory/mathcs/backport/java/util/Arrays.class" />
-      <jump line="217" column="40" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="7" column="63" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignVizProcessorProvider.java" />
       <jump line="231" column="49" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="94" column="47" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceTest.java" />
@@ -329,53 +280,57 @@
       <jump line="25" column="31" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/config/CampaignProxyProperties.java" />
       <jump line="56" column="74" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFOService.java" />
       <jump line="110" column="39" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
-      <jump line="14" column="27" filename="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.16/swagger-annotations-1.5.16.jar!/io/swagger/annotations/ApiParam.class" />
       <jump line="73" column="25" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
       <jump line="17" column="9" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/http/ResponseEntity.class" />
       <jump line="60" column="9" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
       <jump line="61" column="13" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
       <jump line="17" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class" />
       <jump line="70" column="21" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
+      <jump line="196" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/LocalDate.java" />
+      <jump line="92" column="18" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
+      <jump line="1911" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/LocalDate.java" />
+      <jump line="81" column="11" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" />
+      <jump line="14" column="18" filename="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.16/swagger-annotations-1.5.16.jar!/io/swagger/annotations/ApiParam.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>periodEnd</text>
+        <text>DateTimeFormat.</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktbW0tZGQiKSAK</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGVyaW9kRW5kID0gSW5zdGFudC5ub3coKS50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChwZXJpb2RFbmQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PihIdHRwU3RhdHVzLk9LKTsK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0UGFyYW0gTG9jYWxEYXRlIHBlcmlvZEVuZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQEFwaU9wZXJhdGlvbigiQ3JlYXRlIGhhcmQgZXhwZW5zZXMuIikKICBAUG9zdE1hcHBpbmcoIntjYW1wYWlnbklkfS9oYXJkRXhwZW5zZSIpCiAgcHVibGljIFJlc3BvbnNlRW50aXR5PExpc3Q8SGFyZEV4cGVuc2U+PiBjcmVhdGVIYXJkRXhwZW5zZXMoCiAgICBAQXBpUGFyYW0odmFsdWUgPSAiVGhlIGlkIG9mIHRoZSBjYW1wYWlnbi4iLCByZXF1aXJlZCA9IHRydWUpCiAgICBAUGF0aFZhcmlhYmxlIFN0cmluZyBjYW1wYWlnbklkLAogICAgQEFwaVBhcmFtKHZhbHVlID0gIlRoZSBoYXJkIGV4cGVuc2VzIHRvIGJlIGNyZWF0ZWQuIiwgcmVxdWlyZWQgPSB0cnVlKQogICAgQFJlcXVlc3RCb2R5IExpc3Q8SGFyZEV4cGVuc2U+IGhhcmRFeHBlbnNlcykKICB7CiAgICBTdG9wd2F0Y2ggdGltZXIgPSBTdG9wd2F0Y2guY3JlYXRlU3RhcnRlZCgpOwogICAgdGhpcy5sb2dnZXIuZGVidWcoCiAgICAgICJjcmVhdGVIYXJkRXhwZW5zZXM6IFJlY2VpdmVkOiB1c2VySWQ6IHt9LCBjYW1wYWlnbklkIHt9LCBoYXJkRXhwZW5zZXM6IHt9IiwKICAgICAgdGhpcy5hdXRoZW50aWNhdGVkVXNlci5nZXROYW1lKCkub3JFbHNlKCJ1bmtub3duIiksCiAgICAgIGNhbXBhaWduSWQsCiAgICAgIGhhcmRFeHBlbnNlcyk7CgogICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsoY2FtcGFpZ25JZCkpCiAgICB7CiAgICAgIHRoaXMubG9nZ2VyLndhcm4oImNyZWF0ZUhhcmRFeHBlbnNlczogTm8gY2FtcGFpZ25JZCBnaXZlbiIpOwogICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigiTm8gY2FtcGFpZ25JZCBnaXZlbiIpOwogICAgfQoKICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShoYXJkRXhwZW5zZXMpKQogICAgewogICAgICB0aGlzLmxvZ2dlci53YXJuKCJjcmVhdGVIYXJkRXhwZW5zZXM6IE5vIGhhcmRFeHBlbnNlcyBnaXZlbiIpOwogICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigiTm8gaGFyZEV4cGVuc2VzIGdpdmVuIik7CiAgICB9CgogICAgTGlzdDxIYXJkRXhwZW5zZT4gcmVzdWx0cyA9IHRoaXMuaGFyZEV4cGVuc2VTZXJ2aWNlLmNyZWF0ZUhhcmRFeHBlbnNlcygKICAgICAgY2FtcGFpZ25JZCwKICAgICAgaGFyZEV4cGVuc2VzKTsKCiAgICB0aGlzLmxvZ2dlci5kZWJ1ZygiY3JlYXRlSGFyZEV4cGVuc2VzOiBoYXJkIGV4cGVuc2VzIGNyZWF0ZWQgaW4ge30iLCB0aW1lci5zdG9wKCkpOwogICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eTw+KHJlc3VsdHMsIEh0dHBTdGF0dXMuQ1JFQVRFRCk7CiAgfQoKICBAQXBpT3BlcmF0aW9uKCJVcGRhdGUgaGFyZCBleHBlbnNlcy4iKQogIEBQdXRNYXBwaW5nKCJ7Y2FtcGFpZ25JZH0vaGFyZEV4cGVuc2UiKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxMaXN0PEhhcmRFeHBlbnNlPj4gdXBkYXRlSGFyZEV4cGVuc2VzKAogICAgQEFwaVBhcmFtKHZhbHVlID0gIlRoZSBpZCBvZiB0aGUgY2FtcGFpZ24uIiwgcmVxdWlyZWQgPSB0cnVlKQogICAgQFBhdGhWYXJpYWJsZSBTdHJpbmcgY2FtcGFpZ25JZCwKICAgIEBBcGlQYXJhbSh2YWx1ZSA9ICJUaGUgaGFyZCBleHBlbnNlcyB0byBiZSB1cGRhdGVkLiIsIHJlcXVpcmVkID0gdHJ1ZSkKICAgIEBSZXF1ZXN0Qm9keSBMaXN0PEhhcmRFeHBlbnNlPiBoYXJkRXhwZW5zZXMpCiAgewogICAgU3RvcHdhdGNoIHRpbWVyID0gU3RvcHdhdGNoLmNyZWF0ZVN0YXJ0ZWQoKTsKICAgIHRoaXMubG9nZ2VyLmRlYnVnKAogICAgICAidXBkYXRlSGFyZEV4cGVuc2VzOiBSZWNlaXZlZDogdXNlcklkOiB7fSwgY2FtcGFpZ25JZCB7fSwgaGFyZEV4cGVuc2VzOiB7fSIsCiAgICAgIHRoaXMuYXV0aGVudGljYXRlZFVzZXIuZ2V0TmFtZSgpLm9yRWxzZSgidW5rbm93biIpLAogICAgICBjYW1wYWlnbklkLAogICAgICBoYXJkRXhwZW5zZXMpOwoKICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGNhbXBhaWduSWQpKQogICAgewogICAgICB0aGlzLmxvZ2dlci53YXJuKCJ1cGRhdGVIYXJkRXhwZW5zZXM6IE5vIGNhbXBhaWduSWQgZ2l2ZW4iKTsKICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oIk5vIGNhbXBhaWduSWQgZ2l2ZW4iKTsKICAgIH0KCiAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoaGFyZEV4cGVuc2VzKSkKICAgIHsKICAgICAgdGhpcy5sb2dnZXIud2FybigidXBkYXRlSGFyZEV4cGVuc2VzOiBObyBoYXJkRXhwZW5zZXMgZ2l2ZW4iKTsKICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oIk5vIGhhcmRFeHBlbnNlcyBnaXZlbiIpOwogICAgfQoKICAgIExpc3Q8SGFyZEV4cGVuc2U+IHJlc3VsdHMgPSB0aGlzLmhhcmRFeHBlbnNlU2VydmljZS51cGRhdGVIYXJkRXhwZW5zZXMoCiAgICAgIGNhbXBhaWduSWQsCiAgICAgIGhhcmRFeHBlbnNlcyk7CgogICAgdGhpcy5sb2dnZXIuZGVidWcoInVwZGF0ZUhhcmRFeHBlbnNlczogaGFyZCBleHBlbnNlcyB1cGRhdGVkIGluIHt9IiwgdGltZXIuc3RvcCgpKTsKICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PihyZXN1bHRzLCBIdHRwU3RhdHVzLkNSRUFURUQpOwogIH0KCiAgQEFwaU9wZXJhdGlvbigiQ3JlYXRlIGhhcmQgZXhwZW5zZXMuIikKICBARGVsZXRlTWFwcGluZygie2NhbXBhaWduSWR9L2hhcmRFeHBlbnNlIikKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8Vm9pZD4gZGVsZXRlSGFyZEV4cGVuc2VzKAogICAgQEFwaVBhcmFtKHZhbHVlID0gIlRoZSBpZCBvZiB0aGUgY2FtcGFpZ24uIiwgcmVxdWlyZWQgPSB0cnVlKQogICAgQFBhdGhWYXJpYWJsZSBTdHJpbmcgY2FtcGFpZ25JZCwKICAgIEBBcGlQYXJhbSh2YWx1ZSA9ICJUaGUgaGFyZCBleHBlbnNlcyB0byBiZSBkZWxldGVkLiIsIHJlcXVpcmVkID0gdHJ1ZSkKICAgIEBSZXF1ZXN0Qm9keSBMaXN0PEhhcmRFeHBlbnNlPiBoYXJkRXhwZW5zZXMpCiAgewogICAgU3RvcHdhdGNoIHRpbWVyID0gU3RvcHdhdGNoLmNyZWF0ZVN0YXJ0ZWQoKTsKICAgIHRoaXMubG9nZ2VyLmRlYnVnKAogICAgICAiZGVsZXRlSGFyZEV4cGVuc2VzOiBSZWNlaXZlZDogdXNlcklkOiB7fSwgY2FtcGFpZ25JZCB7fSwgaGFyZEV4cGVuc2VzOiB7fSIsCiAgICAgIHRoaXMuYXV0aGVudGljYXRlZFVzZXIuZ2V0TmFtZSgpLm9yRWxzZSgidW5rbm93biIpLAogICAgICBjYW1wYWlnbklkLAogICAgICBoYXJkRXhwZW5zZXMpOwoKICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGNhbXBhaWduSWQpKQogICAgewogICAgICB0aGlzLmxvZ2dlci53YXJuKCJkZWxldGVIYXJkRXhwZW5zZXM6IE5vIGNhbXBhaWduSWQgZ2l2ZW4iKTsKICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oIk5vIGNhbXBhaWduSWQgZ2l2ZW4iKTsKICAgIH0KCiAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoaGFyZEV4cGVuc2VzKSkKICAgIHsKICAgICAgdGhpcy5sb2dnZXIud2FybigiZGVsZXRlSGFyZEV4cGVuc2VzOiBObyBoYXJkRXhwZW5zZXMgZ2l2ZW4iKTsKICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oIk5vIGhhcmRFeHBlbnNlcyBnaXZlbiIpOwogICAgfQoKICAgIHRoaXMuaGFyZEV4cGVuc2VTZXJ2aWNlLmRlbGV0ZUhhcmRFeHBlbnNlKAogICAgICBjYW1wYWlnbklkLAogICAgICBoYXJkRXhwZW5zZXMpOwoKICAgIHRoaXMubG9nZ2VyLmRlYnVnKCJkZWxldGVIYXJkRXhwZW5zZXM6IGhhcmQgZXhwZW5zZXMgY3JlYXRlZCBpbiB7fSIsIHRpbWVyLnN0b3AoKSk7CiAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4oSHR0cFN0YXR1cy5OT19DT05URU5UKTsKICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIERhdGVDb252ZXJzaW9uU2VydmljZSgpe30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmV4Y2VwdGlvbi5Ob3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52aXpleHBsb3Jlci5paHViLmNhbXBhaWduLnNlcnZpY2UuSGFyZEV4cGVuc2VTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLlNjaGVkdWxlZDsK</text>
+        <text encoding="base64">IC5hdFN0YXJ0T2ZEYXkoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
