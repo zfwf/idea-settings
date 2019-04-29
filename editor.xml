@@ -1,8 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="32" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
-    <option name="FONT_SCALE" value="2.0" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -33,7 +32,6 @@
       </map>
     </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
