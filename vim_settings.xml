@@ -110,8 +110,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1556665616776">
-        <mark key="'" line="75" column="21" />
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1556675369021">
+        <mark key="'" line="89" column="8" />
         <mark key="[" line="207" column="69" />
         <mark key="]" line="207" column="95" />
       </file>
@@ -205,6 +205,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" timestamp="1556675145016" />
       <file name="/fragment.java" timestamp="1556664620788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -212,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="2" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
-      <jump line="289" column="7" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
-      <jump line="310" column="7" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
-      <jump line="339" column="7" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="347" column="2" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="353" column="2" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
       <jump line="360" column="2" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/SessionProcessorService.java" />
@@ -312,6 +309,10 @@
       <jump line="98" column="71" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
       <jump line="73" column="73" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="75" column="21" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" />
+      <jump line="264" column="45" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" />
+      <jump line="12" column="49" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -321,7 +322,7 @@
         <text>VE_SEGMENT_FK</text>
       </register>
       <register name="/" type="4">
-        <text>provider</text>
+        <text>literal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBjYW1wYWlnblByb3ZpZGVyID0gKENhbXBhaWduSUh1YlByb3ZpZGVyKSBjYW1wYWlnbklIdWJDb25uZWN0b3JTZXJ2aWNlLmdldENhbXBhaWduUHJvdmlkZXIoKTsK</text>
@@ -358,15 +359,14 @@
       </register>
     </registers>
     <search>
-      <last-search>provider</last-search>
+      <last-search>literal</last-search>
       <last-offset />
-      <last-pattern>provider</last-pattern>
+      <last-pattern>literal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
         <entry>auto</entry>
         <entry>hashmap</entry>
         <entry>dependency</entry>
@@ -386,6 +386,7 @@
         <entry>resttempalte</entry>
         <entry>getrest</entry>
         <entry>provider</entry>
+        <entry>literal</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
