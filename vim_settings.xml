@@ -204,12 +204,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/config/xformas01/application.properties" timestamp="1556838538428">
+      <file name="$USER_HOME$/Documents/ihub-postforma/config/xformas01/application.properties" timestamp="1556840071739">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub/core/common/src/main/resources/application.properties" timestamp="1556839908732" />
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/campaign/RedeemableOfferCodeServiceTest.java" timestamp="1554280701934">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="43" />
@@ -372,7 +373,7 @@
         <text>11eprrpg</text>
       </register>
       <register name="/" type="4">
-        <text>getsession</text>
+        <text>setqu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBOb3ROdWxsIEluc3RhbnQgcGVyaW9kU3RhcnQsCiAgICBATm90TnVsbCBJbnN0YW50IHBlcmlvZEVuZCkK</text>
@@ -409,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search>getsession</last-search>
+      <last-search>setqu</last-search>
       <last-offset />
-      <last-pattern>getsession</last-pattern>
+      <last-pattern>setqu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dependency</entry>
         <entry>getmultiple</entry>
         <entry>operation</entry>
         <entry>query</entry>
@@ -437,6 +437,7 @@
         <entry>sessionre</entry>
         <entry>sessionlist</entry>
         <entry>getsession</entry>
+        <entry>setqu</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
