@@ -12,26 +12,10 @@
         <mark key="." line="325" column="6" />
         <mark key="^" line="325" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1556766333261">
-        <mark key="'" line="93" column="38" />
-        <mark key="k" line="271" column="6" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
-        <mark key="^" line="316" column="37" />
-      </file>
       <file name="/a.dummy" timestamp="1556787367897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFOService.java" timestamp="1556597112002">
-        <mark key="'" line="59" column="74" />
-        <mark key="[" line="126" column="57" />
-        <mark key="k" line="65" column="0" />
-        <mark key="]" line="126" column="57" />
-        <mark key="." line="126" column="57" />
-        <mark key="^" line="126" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" timestamp="1556595878581">
         <mark key="'" line="67" column="74" />
@@ -52,12 +36,12 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" timestamp="1556786174732">
-        <mark key="'" line="288" column="18" />
-        <mark key="[" line="288" column="18" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" timestamp="1556788981433">
+        <mark key="'" line="62" column="10" />
+        <mark key="[" line="40" column="42" />
         <mark key="k" line="62" column="10" />
-        <mark key="]" line="288" column="29" />
-        <mark key="." line="288" column="29" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
         <mark key="^" line="288" column="29" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/dto/SessionResult.java" timestamp="1554465274187">
@@ -65,9 +49,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1556785205570">
-        <mark key="[" line="84" column="72" />
-        <mark key="]" line="84" column="80" />
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1556788754891">
+        <mark key="[" line="73" column="0" />
+        <mark key="k" line="73" column="49" />
+        <mark key="]" line="79" column="76" />
         <mark key="." line="84" column="72" />
         <mark key="^" line="84" column="0" />
       </file>
@@ -142,14 +127,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" timestamp="1555553826572">
-        <mark key="'" line="97" column="74" />
-        <mark key="[" line="97" column="38" />
-        <mark key="k" line="98" column="41" />
-        <mark key="]" line="97" column="50" />
-        <mark key="." line="97" column="50" />
-        <mark key="^" line="97" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/config/PostFormaSchedlerConfig.java" timestamp="1556490099056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -176,14 +153,6 @@
         <mark key="]" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFOService.java" timestamp="1556530328314">
-        <mark key="'" line="96" column="33" />
-        <mark key="[" line="105" column="98" />
-        <mark key="k" line="97" column="23" />
-        <mark key="]" line="107" column="15" />
-        <mark key="." line="107" column="15" />
-        <mark key="^" line="107" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ihub/Application.java" timestamp="1552533309698">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -201,45 +170,36 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignIHubProviderImpl.java" timestamp="1556618192817">
-        <mark key="'" line="23" column="58" />
-        <mark key="k" line="45" column="14" />
-        <mark key="[" line="83" column="101" />
-        <mark key="]" line="84" column="3" />
-        <mark key="." line="84" column="3" />
-        <mark key="^" line="84" column="3" />
-      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" timestamp="1556787276497">
         <mark key="'" line="83" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/HardExpenseImpl.java" timestamp="1555464464027">
-        <mark key="'" line="21" column="55" />
-        <mark key="[" line="52" column="33" />
-        <mark key="k" line="60" column="40" />
-        <mark key="]" line="52" column="41" />
-        <mark key="." line="59" column="45" />
-        <mark key="^" line="59" column="45" />
-      </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostFormaProxyAutoStart.java" timestamp="1556787699333">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="45" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostFormaProxyAutoStart.java" timestamp="1556788448385">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="41" column="60" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/postforma/model/OfferCodeType.java" timestamp="1554781574300">
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostformaProxyProperties.java" timestamp="1556786072918">
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostformaProxyProperties.java" timestamp="1556788557139">
         <mark key="'" line="25" column="35" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="k" line="191" column="4" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="195" column="3" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/config/PostFormaRedemptionAutoStart.java" timestamp="1556787137453">
         <mark key="'" line="25" column="2" />
+      </file>
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignProviderType.java" timestamp="1556787928986">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1556786341986">
         <mark key="'" line="0" column="16" />
@@ -264,10 +224,10 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" timestamp="1556787779058">
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" timestamp="1556787839001">
         <mark key="'" line="95" column="15" />
-        <mark key="[" line="95" column="25" />
-        <mark key="]" line="95" column="26" />
+        <mark key="[" line="96" column="24" />
+        <mark key="]" line="96" column="44" />
         <mark key="." line="95" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/config/xformas01/application.properties" timestamp="1556766493272">
@@ -277,25 +237,18 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/test/java/com/vizexplorer/ihub/postforma/service/SessionProcessorServiceTest.java" timestamp="1555298849350">
-        <mark key="'" line="94" column="47" />
-        <mark key="[" line="92" column="0" />
-        <mark key="k" line="92" column="6" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="94" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/config/PostFormaConfig.java" timestamp="1556492041742">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="63" />
         <mark key="." line="30" column="62" />
         <mark key="^" line="30" column="61" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/config/xformas01/application.properties" timestamp="1556785262641">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/config/xformas01/application.properties" timestamp="1556788873193">
+        <mark key="k" line="65" column="54" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="70" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/HardExpense.java" timestamp="1555463330632">
         <mark key="[" line="47" column="3" />
@@ -333,10 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="17" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/Segment.java" />
-      <jump line="20" column="55" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/HardExpenseImpl.java" />
-      <jump line="80" column="4" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/HardExpensesController.java" />
-      <jump line="155" column="68" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/HardExpensesController.java" />
       <jump line="119" column="15" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" />
       <jump line="21" column="55" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/HardExpenseImpl.java" />
       <jump line="93" column="5" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" />
@@ -433,46 +382,50 @@
       <jump line="46" column="13" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
       <jump line="94" column="38" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
       <jump line="95" column="15" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" />
+      <jump line="47" column="57" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostFormaProxyAutoStart.java" />
+      <jump line="11" column="2" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignProviderType.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostFormaProxyAutoStart.java" />
+      <jump line="62" column="10" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;v1&quot;, &quot;datasources&quot;, redemptionSessionDataSourceId, &quot;dataset&quot;</text>
+        <text encoding="base64">IGltcGxlbWVudHMgUG9zdGZvcm1hQ29ubmVjdG9y</text>
       </register>
       <register name="/" type="4">
         <text>datasource</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAucGF0aFNlZ21lbnQoImRhdGFzZXJ2aWNlIiwgInYxIiwgImRhdGFzb3VyY2VzIiwgcmVkZW1wdGlvblNlc3Npb25EYXRhU291cmNlSWQsICJkYXRhc2V0IikK</text>
+      <register name="0" type="4">
+        <text>campaign</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGNhbXBhaWduL2NhbXBhaWduL2RhdGFzb3VyY2VJZCAK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQE5vdE51bGwgTGlzdDxATm90TnVsbCBIYXJkRXhwZW5zZT4gZ2V0SGFyZEV4cGVuc2VzKEBOb3ROdWxsIFN0cmluZyBjYW1wYWlnbklkKQogIHsKICAgIENhbXBhaWduSUh1YlByb3ZpZGVyIGNhbXBhaWduSUh1YlByb3ZpZGVyID0gKENhbXBhaWduSUh1YlByb3ZpZGVyKSBnZXRDYW1wYWlnblByb3ZpZGVyKCk7CgogICAgUXVlcnlQcmVkaWNhdGUgcmVzdHJpY3Rpb24gPSBRdWVyeVByZWRpY2F0ZUltcGwuYnVpbGRlcigpCiAgICAgIC5zZXRPcGVyYXRvcihSZXN0cmljdGlvblF1ZXJ5T3BlcmF0b3IuZXEpCiAgICAgIC5zZXRPcGVyYW5kcyhBcnJheXMuYXNMaXN0KAogICAgICAgIEZpZWxkT3BlcmFuZEltcGwuYnVpbGRlcigpLnNldE5hbWUoSGFyZEV4cGVuc2VQcm94eS5DQU1QQUlHTl9QS19DT0xVTU5fTkFNRSkuYnVpbGQoKSwKICAgICAgICBMaXRlcmFsT3BlcmFuZEltcGwuYnVpbGRlcigpLnNldFZhbHVlKGNhbXBhaWduSWQpLnNldFN1YlR5cGUoVml6RGF0YVN1YlR5cGUuU1RSSU5HKS5idWlsZCgpKSkKICAgICAgLmJ1aWxkKCk7CgogICAgcmV0dXJuIGdldFJlcXVlc3RCeVJlc3RyaWN0aW9uKGNhbXBhaWduSUh1YlByb3ZpZGVyLCByZXN0cmljdGlvbik7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgQE51bGxhYmxlIEhhcmRFeHBlbnNlIGdldEhhcmRFeHBlbnNlKAogICAgQE5vdE51bGwgU3RyaW5nIGNhbXBhaWduSWQsCiAgICBATm90TnVsbCBTdHJpbmcgaGFyZEV4cGVuc2VJZCkKICB7CiAgICBDYW1wYWlnbklIdWJQcm92aWRlciBjYW1wYWlnbklIdWJQcm92aWRlciA9IChDYW1wYWlnbklIdWJQcm92aWRlcikgZ2V0Q2FtcGFpZ25Qcm92aWRlcigpOwoKICAgIFF1ZXJ5UHJlZGljYXRlIGNhbXBhaWduUHJlZGljYXRlID0gUXVlcnlQcmVkaWNhdGVJbXBsLmJ1aWxkZXIoKQogICAgICAuc2V0T3BlcmF0b3IoUmVzdHJpY3Rpb25RdWVyeU9wZXJhdG9yLmVxKQogICAgICAuc2V0T3BlcmFuZHMoQXJyYXlzLmFzTGlzdCgKICAgICAgICBGaWVsZE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXROYW1lKEhhcmRFeHBlbnNlUHJveHkuQ0FNUEFJR05fUEtfQ09MVU1OX05BTUUpLmJ1aWxkKCksCiAgICAgICAgTGl0ZXJhbE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXRWYWx1ZShjYW1wYWlnbklkKS5zZXRTdWJUeXBlKFZpekRhdGFTdWJUeXBlLlNUUklORykuYnVpbGQoKSkpCiAgICAgIC5idWlsZCgpOwoKICAgIFF1ZXJ5UHJlZGljYXRlIHNlZ21lbnRQcmVkaWNhdGUgPSBRdWVyeVByZWRpY2F0ZUltcGwuYnVpbGRlcigpCiAgICAgIC5zZXRPcGVyYXRvcihSZXN0cmljdGlvblF1ZXJ5T3BlcmF0b3IuZXEpCiAgICAgIC5zZXRPcGVyYW5kcyhBcnJheXMuYXNMaXN0KAogICAgICAgIEZpZWxkT3BlcmFuZEltcGwuYnVpbGRlcigpLnNldE5hbWUoSGFyZEV4cGVuc2VQcm94eS5IQVJEX0VYUEVOU0VfUEtfQ09MVU1OX05BTUUpLmJ1aWxkKCksCiAgICAgICAgTGl0ZXJhbE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXRWYWx1ZShoYXJkRXhwZW5zZUlkKS5zZXRTdWJUeXBlKFZpekRhdGFTdWJUeXBlLlNUUklORykuYnVpbGQoKSkpCiAgICAgIC5idWlsZCgpOwoKICAgIFF1ZXJ5UHJlZGljYXRlIHJlc3RyaWN0aW9uID0gUXVlcnlQcmVkaWNhdGVJbXBsLmJ1aWxkZXIoKQogICAgICAuc2V0T3BlcmF0b3IoUmVzdHJpY3Rpb25RdWVyeU9wZXJhdG9yLmFuZCkKICAgICAgLnNldE9wZXJhbmRzKEFycmF5cy5hc0xpc3QoCiAgICAgICAgY2FtcGFpZ25QcmVkaWNhdGUsCiAgICAgICAgc2VnbWVudFByZWRpY2F0ZSkpCiAgICAgIC5idWlsZCgpOwoKICAgIExpc3Q8SGFyZEV4cGVuc2U+IGhhcmRFeHBlbnNlcyA9IGdldFJlcXVlc3RCeVJlc3RyaWN0aW9uKGNhbXBhaWduSUh1YlByb3ZpZGVyLCByZXN0cmljdGlvbik7CgogICAgcmV0dXJuIGhhcmRFeHBlbnNlcwogICAgICAuc3RyZWFtKCkKICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0SWQoKS5lcXVhbHMoaGFyZEV4cGVuc2VJZCkpCiAgICAgIC5maW5kRmlyc3QoKQogICAgICAub3JFbHNlKG51bGwpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2U+IGNyZWF0ZUhhcmRFeHBlbnNlcygKICAgIEBOb3ROdWxsIFN0cmluZyBjYW1wYWlnbklkLAogICAgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZT4gaGFyZEV4cGVuc2VzKQogIHsKICAgIENhbXBhaWduSUh1YlByb3ZpZGVyIGNhbXBhaWduSUh1YlByb3ZpZGVyID0gKENhbXBhaWduSUh1YlByb3ZpZGVyKSBnZXRDYW1wYWlnblByb3ZpZGVyKCk7CiAgICBTdHJpbmcgaGFyZEV4cGVuc2VEYXRhU291cmNlSWQgPSBjYW1wYWlnbklIdWJQcm92aWRlci5nZXRIYXJkRXhwZW5zZURhdGFTb3VyY2VJZCgpOwoKICAgIExpc3Q8SGFyZEV4cGVuc2VQcm94eT4gaGFyZEV4cGVuc2VQcm94eUxpc3QgPSB0aGlzLnBvc3Rmb3JtYUlIdWJNYXBwZXIuZ2V0SGFyZEV4cGVuc2VQcm94eUxpc3QoCiAgICAgIGNhbXBhaWduSWQsCiAgICAgIGhhcmRFeHBlbnNlcyk7CgogICAgTGlzdDxIYXJkRXhwZW5zZVByb3h5PiByZXN1bHRzID0gSnNvbkNvbm5lY3Rvci5wb3N0SnNvbigKICAgICAgZ2V0UmVzdFRlbXBsYXRlKCksCiAgICAgIFVyaUNvbXBvbmVudHNCdWlsZGVyCiAgICAgICAgLmZyb21VcmkoY2FtcGFpZ25JSHViUHJvdmlkZXIuZ2V0VVJJKCkpCiAgICAgICAgLnBhdGhTZWdtZW50KCJkYXRhc2VydmljZSIsICJ2MiIsICJkYXRhc291cmNlcyIsIGhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkKQogICAgICAgIC5idWlsZCgpCiAgICAgICAgLnRvVXJpKCksCiAgICAgIGhhcmRFeHBlbnNlUHJveHlMaXN0LAogICAgICBuZXcgTGlzdEhhcmRFeHBlbnNlUHJveHlUeXBlUmVmZXJlbmNlKCkpOwoKICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShyZXN1bHRzKSkKICAgIHsKICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoImdldEhhcmRFeHBlbnNlOiB1bmFibGUgdG8gdXBkYXRlIGhhcmQgZXhwZW5zZXMgZnJvbSBjYW1wYWlnbiBpZCB7fSIsIGhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkKTsKICAgICAgdGhyb3cgbmV3IElIdWJFeGNlcHRpb24oIlVuYWJsZSB0byBjcmVhdGUgaGFyZCBleHBlbnNlcyBmcm9tIGNhbXBhaWduIGlkICIgKyBoYXJkRXhwZW5zZURhdGFTb3VyY2VJZCk7CiAgICB9CgogICAgTGlzdDxIYXJkRXhwZW5zZT4gY3JlYXRlZEhhcmRFeHBlbnNlcyA9IHRoaXMucG9zdGZvcm1hSUh1Yk1hcHBlci5nZXRIYXJkRXhwZW5zZXMocmVzdWx0cyk7CgogICAgLy8gQWRkIHNlZ21lbnQgaWRzIHRvIGhhcmQgZXhwZW5zZXMKICAgIGNyZWF0ZWRIYXJkRXhwZW5zZXMgPSBhZGRTZWdtZW50SWRzT25IYXJkRXhwZW5zZXMoCiAgICAgIGhhcmRFeHBlbnNlcywKICAgICAgY2FtcGFpZ25JSHViUHJvdmlkZXIsCiAgICAgIGNyZWF0ZWRIYXJkRXhwZW5zZXMpOwoKICAgIHJldHVybiBjcmVhdGVkSGFyZEV4cGVuc2VzOwogIH0KCiAgLyoqCiAgICogUmV0dXJucyBhbiB1cGRhdGVkIGhhcmQgZXhwZW5zZXMgd2hpY2ggYWxyZWFkeSBob2xkIHRoZSBzZWdtZW50IGlkcyBieSBlYWNoIGl0ZW0uCiAgICoKICAgKiBAcGFyYW0gaGFyZEV4cGVuc2VzICAgICAgICAgVGhlIGhhcmQgZXhwZW5zZXMgd2hpY2ggaG9sZCB0aGUgc2VnbWVudCBpZHMuCiAgICogQHBhcmFtIGNhbXBhaWduSUh1YlByb3ZpZGVyIFRoZSBjYW1wYWlnbiBpSHViIHByb3ZpZGVyLgogICAqIEBwYXJhbSBjcmVhdGVkSGFyZEV4cGVuc2VzICBUaGUgY3JlYXRlZCBoYXJkIGV4cGVuc2VzLgogICAqIEByZXR1cm4gYW4gdXBkYXRlZCBoYXJkIGV4cGVuc2VzLgogICAqLwogIHByaXZhdGUgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZT4gYWRkU2VnbWVudElkc09uSGFyZEV4cGVuc2VzKAogICAgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZT4gaGFyZEV4cGVuc2VzLAogICAgQE5vdE51bGwgQ2FtcGFpZ25JSHViUHJvdmlkZXIgY2FtcGFpZ25JSHViUHJvdmlkZXIsCiAgICBATm90TnVsbCBMaXN0PEhhcmRFeHBlbnNlPiBjcmVhdGVkSGFyZEV4cGVuc2VzKQogIHsKICAgIExpc3Q8SGFyZEV4cGVuc2U+IHVwZGF0ZWRIYXJkRXhwZW5zZXMgPSBjcmVhdGVkSGFyZEV4cGVuc2VzOwogICAgU3RyaW5nIGhhcmRFeHBlbnNlU2VnbWVudERhdGFTb3VyY2VJZCA9IGNhbXBhaWduSUh1YlByb3ZpZGVyLmdldEhhcmRFeHBlbnNlU2VnbWVudERhdGFTb3VyY2VJZCgpOwoKICAgIExpc3Q8SGFyZEV4cGVuc2VTZWdtZW50UHJveHk+IGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgIC8vIFVwZGF0ZSB0aGUgc2VnbWVudCBpZCBsaXN0IGJ5IGEgaGFyZCBleHBlbnNlCiAgICBmb3IgKEhhcmRFeHBlbnNlIGhhcmRFeHBlbnNlIDogaGFyZEV4cGVuc2VzKQogICAgewogICAgICBoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QgPSB1cGRhdGVIYXJkRXhwZW5zZVNlZ21lbnRQcm94eShoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QsIGhhcmRFeHBlbnNlKTsKICAgIH0KCiAgICAvLyBJZiB0aGVyZSBpcyBhbnkgaGFyZCBleHBlbnNlIHNlZ21lbnQgdG8gdXBkYXRlIGp1c3QgcmV0dXJuIHRoZSBzYW1lIG9uZQogICAgaWYgKGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdC5pc0VtcHR5KCkpCiAgICB7CiAgICAgIHJldHVybiB1cGRhdGVkSGFyZEV4cGVuc2VzOwogICAgfQoKICAgIExpc3Q8SGFyZEV4cGVuc2VTZWdtZW50UHJveHk+IGNyZWF0ZWQgPSBKc29uQ29ubmVjdG9yLnBvc3RKc29uKAogICAgICBnZXRSZXN0VGVtcGxhdGUoKSwKICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIKICAgICAgICAuZnJvbVVyaShjYW1wYWlnbklIdWJQcm92aWRlci5nZXRVUkkoKSkKICAgICAgICAucGF0aFNlZ21lbnQoImRhdGFzZXJ2aWNlIiwgInYyIiwgImRhdGFzb3VyY2VzIiwgaGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkKQogICAgICAgIC5idWlsZCgpCiAgICAgICAgLnRvVXJpKCksCiAgICAgIGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCwKICAgICAgbmV3IExpc3RIYXJkRXhwZW5zZVNlZ21lbnRQcm94eVR5cGVSZWZlcmVuY2UoKSk7CgogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGNyZWF0ZWQpKQogICAgewogICAgICB1cGRhdGVkSGFyZEV4cGVuc2VzID0gdXBkYXRlSGFyZEV4cGVuc2VCeVNlZ21lbnRJZHMoCiAgICAgICAgdXBkYXRlZEhhcmRFeHBlbnNlcywKICAgICAgICBjcmVhdGVkKTsKICAgIH0KCiAgICByZXR1cm4gdXBkYXRlZEhhcmRFeHBlbnNlczsKICB9CgogIC8qKgogICAqIFJldHVybnMgdGhlIHVwZGF0ZWQgaGFyZCBleHBlbnNlcyBzZWdtZW50IHByb3h5IGJ5IGEgaGFyZCBleHBlbnNlcy4KICAgKgogICAqIEBwYXJhbSBoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QgVGhlIGhhcmQgZXhwZW5zZXMgc2VnbWVudCBwcm94eSB0byBiZSB1cGRhdGVkLgogICAqIEBwYXJhbSBoYXJkRXhwZW5zZSAgICAgICAgICAgICAgICAgVGhlIGhhcmQgZXhwZW5zZSB3aGljaCBob2xkcyBzZWdtZW50IGlkcy4KICAgKiBAcmV0dXJuIHRoZSB1cGRhdGVkIGhhcmQgZXhwZW5zZXMgc2VnbWVudCBwcm94eS4KICAgKi8KICBwcml2YXRlIHN0YXRpYyBATm90TnVsbCBMaXN0PEhhcmRFeHBlbnNlU2VnbWVudFByb3h5PiB1cGRhdGVIYXJkRXhwZW5zZVNlZ21lbnRQcm94eSgKICAgIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2VTZWdtZW50UHJveHk+IGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCwKICAgIEBOb3ROdWxsIEhhcmRFeHBlbnNlIGhhcmRFeHBlbnNlKQogIHsKICAgIExpc3Q8SGFyZEV4cGVuc2VTZWdtZW50UHJveHk+IG5ld0hhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PihoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QpOwoKICAgIGZvciAoU3RyaW5nIHNlZ21lbnRJZCA6IGhhcmRFeHBlbnNlLmdldFNlZ21lbnRJZHMoKSkKICAgIHsKICAgICAgSGFyZEV4cGVuc2VTZWdtZW50UHJveHkgaGFyZEV4cGVuc2VTZWdtZW50UHJveHkgPSBIYXJkRXhwZW5zZVNlZ21lbnRQcm94eUltcGwuYnVpbGRlcigpCiAgICAgICAgLnNldEhhcmRFeHBlbnNlRksoaGFyZEV4cGVuc2UuZ2V0SWQoKSkKICAgICAgICAuc2V0U2VnbWVudEZLKHNlZ21lbnRJZCkKICAgICAgICAuYnVpbGQoKTsKCiAgICAgIG5ld0hhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdC5hZGQoaGFyZEV4cGVuc2VTZWdtZW50UHJveHkpOwogICAgfQoKICAgIHJldHVybiBuZXdIYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3Q7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBkZWxldGVIYXJkRXhwZW5zZXMoCiAgICBATm90TnVsbCBTdHJpbmcgY2FtcGFpZ25JZCwKICAgIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2U+IGhhcmRFeHBlbnNlcykKICB7CiAgICBDYW1wYWlnbklIdWJQcm92aWRlciBjYW1wYWlnbklIdWJQcm92aWRlciA9IChDYW1wYWlnbklIdWJQcm92aWRlcikgZ2V0Q2FtcGFpZ25Qcm92aWRlcigpOwoKICAgIC8vIERlbGV0ZSBoYXJkIGV4cGVuc2Ugc2VnbWVudCBwcm94eQogICAgZGVsZXRlSGFyZEV4cGVuc2VTZWdtZW50UHJveHkoaGFyZEV4cGVuc2VzLCBjYW1wYWlnbklIdWJQcm92aWRlcik7CgogICAgU3RyaW5nIGhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkID0gY2FtcGFpZ25JSHViUHJvdmlkZXIuZ2V0SGFyZEV4cGVuc2VEYXRhU291cmNlSWQoKTsKCiAgICBMaXN0PEhhcmRFeHBlbnNlUHJveHk+IGhhcmRFeHBlbnNlUHJveHlMaXN0ID0gdGhpcy5wb3N0Zm9ybWFJSHViTWFwcGVyLmdldEhhcmRFeHBlbnNlUHJveHlMaXN0KAogICAgICBjYW1wYWlnbklkLAogICAgICBoYXJkRXhwZW5zZXMpOwoKICAgIEpzb25Db25uZWN0b3IuZGVsZXRlSnNvbigKICAgICAgZ2V0UmVzdFRlbXBsYXRlKCksCiAgICAgIFVyaUNvbXBvbmVudHNCdWlsZGVyCiAgICAgICAgLmZyb21VcmkoY2FtcGFpZ25JSHViUHJvdmlkZXIuZ2V0VVJJKCkpCiAgICAgICAgLnBhdGhTZWdtZW50KCJkYXRhc2VydmljZSIsICJ2MiIsICJkYXRhc291cmNlcyIsIGhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkKQogICAgICAgIC5idWlsZCgpCiAgICAgICAgLnRvVXJpKCksCiAgICAgIGhhcmRFeHBlbnNlUHJveHlMaXN0KTsKICB9CgoKICAvKioKICAgKiBEZWxldGVzIHRoZSBoYXJkIGV4cGVuc2Ugc2VnbWVudCBwcm94eS4KICAgKgogICAqIEBwYXJhbSBoYXJkRXhwZW5zZXMgICAgICAgICBUaGUgaGFyZCBleHBlbnNlIGxpc3QuCiAgICogQHBhcmFtIGNhbXBhaWduSUh1YlByb3ZpZGVyIFRoZSBpSHViIHByb3ZpZGVyLgogICAqLwogIHByaXZhdGUgdm9pZCBkZWxldGVIYXJkRXhwZW5zZVNlZ21lbnRQcm94eSgKICAgIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2U+IGhhcmRFeHBlbnNlcywKICAgIEBOb3ROdWxsIENhbXBhaWduSUh1YlByb3ZpZGVyIGNhbXBhaWduSUh1YlByb3ZpZGVyKQogIHsKICAgIFN0cmluZyBoYXJkRXhwZW5zZVNlZ21lbnREYXRhU291cmNlSWQgPSBjYW1wYWlnbklIdWJQcm92aWRlci5nZXRIYXJkRXhwZW5zZVNlZ21lbnREYXRhU291cmNlSWQoKTsKICAgIExpc3Q8SGFyZEV4cGVuc2VTZWdtZW50UHJveHk+IGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCA9IGdldEhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCgKICAgICAgY2FtcGFpZ25JSHViUHJvdmlkZXIsCiAgICAgIGhhcmRFeHBlbnNlcyk7CgogICAgLy8gSGFyZCBleHBlbnNlIHNlZ21lbnQgcHJveHkgbGlzdCBpcyBlbXB0eQogICAgaWYgKGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdC5pc0VtcHR5KCkpCiAgICB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBKc29uQ29ubmVjdG9yLmRlbGV0ZUpzb24oCiAgICAgIGdldFJlc3RUZW1wbGF0ZSgpLAogICAgICBVcmlDb21wb25lbnRzQnVpbGRlcgogICAgICAgIC5mcm9tVXJpKGRhdGFQcm92aWRlci5nZXRVUkkoKSkKICAgICAgICAucGF0aFNlZ21lbnQoImRhdGFzZXJ2aWNlIiwgInYyIiwgImRhdGFzb3VyY2VzIiwgaGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkKQogICAgICAgIC5idWlsZCgpCiAgICAgICAgLnRvVXJpKCksCiAgICAgIGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCk7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgQE5vdE51bGwgQ2FtcGFpZ25Qcm92aWRlciBnZXRDYW1wYWlnblByb3ZpZGVyKCkKICB7CiAgICBQb3N0Zm9ybWFQcm94eVByb3BlcnRpZXMuRGF0YVByb3ZpZGVyU2V0dGluZyBpSHViU2V0dGluZ3MgPSB0aGlzLnByb3BlcnRpZXMuZ2V0UHJvdmlkZXJzKCkKICAgICAgLnN0cmVhbSgpCiAgICAgIC5maWx0ZXIoaXRlbSAtPiBpdGVtLmdldFR5cGUoKSA9PSBDYW1wYWlnblByb3ZpZGVyVHlwZS5JSFVCKQogICAgICAuZmluZEZpcnN0KCkKICAgICAgLm9yRWxzZShudWxsKTsKCiAgICBpZiAoaUh1YlNldHRpbmdzID09IG51bGwpCiAgICB7CiAgICAgIHRoaXMubG9nZ2VyLndhcm4oImdldENhbXBhaWduSUh1YlByb3ZpZGVyOiB1bmFibGUgdG8gZ2V0IElIdWIgcHJvcGVydGllcyIpOwogICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJVbmFibGUgdG8gZ2V0IElIdWIgcHJvcGVydGllcyIpOwogICAgfQoKICAgIHZhciBoYXJkRXhwZW5zZURhdGFTb3VyY2VJZCA9IGlIdWJTZXR0aW5ncy5nZXRPcHRpb25zKCkuZ2V0KCJoYXJkRXhwZW5zZURhdGFTb3VyY2VJZCIpOwogICAgdmFyIGhhcmRFeHBlbnNlU2VnbWVudERhdGFTb3VyY2VJZCA9IGlIdWJTZXR0aW5ncy5nZXRPcHRpb25zKCkuZ2V0KCJoYXJkRXhwZW5zZVNlZ21lbnREYXRhU291cmNlSWQiKTsKICAgIHZhciByZWRlbXB0aW9uU2Vzc2lvbkRhdGFTb3VyY2VJZCA9IGlIdWJTZXR0aW5ncy5nZXRPcHRpb25zKCkuZ2V0KCJyZWRlbXB0aW9uU2Vzc2lvbkRhdGFTb3VyY2VJZCIpOwogICAgdmFyIHNlc3Npb25EYXRhU291cmNlSWQgPSBpSHViU2V0dGluZ3MuZ2V0T3B0aW9ucygpLmdldCgic2Vzc2lvbkRhdGFTb3VyY2VJZCIpOwogICAgdmFyIHNlZ21lbnRDdXN0b21lckRhdGFTb3VyY2VJZCA9IGlIdWJTZXR0aW5ncy5nZXRPcHRpb25zKCkuZ2V0KCJzZWdtZW50Q3VzdG9tZXJEYXRhU291cmNlSWQiKTsKCgogICAgcmV0dXJuIENhbXBhaWduSUh1YlByb3ZpZGVySW1wbAogICAgICAuYnVpbGRlcigpCiAgICAgIC5zZXROYW1lKGlIdWJTZXR0aW5ncy5nZXROYW1lKCkpCiAgICAgIC5zZXRVUkkoaUh1YlNldHRpbmdzLmdldFVSSSgpKQogICAgICAuc2V0VHlwZShpSHViU2V0dGluZ3MuZ2V0VHlwZSgpKQogICAgICAuc2V0SGFyZEV4cGVuc2VEYXRhU291cmNlSWQoaGFyZEV4cGVuc2VEYXRhU291cmNlSWQpCiAgICAgIC5zZXRIYXJkRXhwZW5zZVNlZ21lbnREYXRhU291cmNlSWQoaGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkKQogICAgICAuc2V0UmVkZW1wdGlvblNlc3Npb25EYXRhU291cmNlSWQocmVkZW1wdGlvblNlc3Npb25EYXRhU291cmNlSWQpCiAgICAgIC5zZXRTZXNzaW9uRGF0YVNvdXJjZUlkKHNlc3Npb25EYXRhU291cmNlSWQpCiAgICAgIC5zZXRTZWdtZW50Q3VzdG9tZXJEYXRhU291cmNlSWQoc2VnbWVudEN1c3RvbWVyRGF0YVNvdXJjZUlkKQogICAgICAuYnVpbGQoKTsKICB9CgogIC8qKgogICAqIFJldHVybnMgdGhlIHJlc3VsdCBvZiBhIGdldCByZXF1ZXN0IHRvIElIdWIgc2VydmljZXMgYnkgcmVzdHJpY3Rpb24uCiAgICoKICAgKiBAcGFyYW0gY2FtcGFpZ25JSHViUHJvdmlkZXIgVGhlIGlIdWIgcHJvdmlkZXIuCiAgICogQHBhcmFtIHJlc3RyaWN0aW9uICAgICAgICAgIFRoZSByZXN0cmljdGlvbi4KICAgKiBAcmV0dXJuIGEgaGFyZCBleHBlbnNlIGxpc3QuCiAgICovCiAgcHJpdmF0ZSBATm90TnVsbCBMaXN0PEhhcmRFeHBlbnNlPiBnZXRSZXF1ZXN0QnlSZXN0cmljdGlvbigKICAgIEBOb3ROdWxsIENhbXBhaWduSUh1YlByb3ZpZGVyIGNhbXBhaWduSUh1YlByb3ZpZGVyLAogICAgQE5vdE51bGwgUXVlcnlQcmVkaWNhdGUgcmVzdHJpY3Rpb24pCiAgewogICAgU3RyaW5nIGhhcmRFeHBlbnNlRGF0YVNvdXJjZUlkID0gY2FtcGFpZ25JSHViUHJvdmlkZXIuZ2V0SGFyZEV4cGVuc2VEYXRhU291cmNlSWQoKTsKCiAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtZXRlcnMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICBwYXJhbWV0ZXJzLnB1dCgicmVzdHJpY3Rpb24iLCByZXN0cmljdGlvbik7CgogICAgTGlzdDxIYXJkRXhwZW5zZVByb3h5PiBoYXJkRXhwZW5zZVByb3h5TGlzdCA9IEpzb25Db25uZWN0b3IucG9zdEpzb24oCiAgICAgIGdldFJlc3RUZW1wbGF0ZSgpLAogICAgICBVcmlDb21wb25lbnRzQnVpbGRlcgogICAgICAgIC5mcm9tVXJpKGNhbXBhaWduSUh1YlByb3ZpZGVyLmdldFVSSSgpKQogICAgICAgIC5wYXRoU2VnbWVudCgiZGF0YXNlcnZpY2UiLCAidjEiLCAiZGF0YXNvdXJjZXMiLCBoYXJkRXhwZW5zZURhdGFTb3VyY2VJZCwgImRhdGFzZXQiKQogICAgICAgIC5xdWVyeVBhcmFtKCJyZXN0cmljdGlvbiIsIHJlc3RyaWN0aW9uKQogICAgICAgIC5idWlsZCgpCiAgICAgICAgLnRvVXJpKCksCiAgICAgIHBhcmFtZXRlcnMsCiAgICAgIG5ldyBMaXN0SGFyZEV4cGVuc2VQcm94eVR5cGVSZWZlcmVuY2UoKSk7CgogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGhhcmRFeHBlbnNlUHJveHlMaXN0KSkKICAgIHsKICAgICAgdGhpcy5sb2dnZXIud2FybigiZ2V0SGFyZEV4cGVuc2U6IHVuYWJsZSB0byBnZXQgaGFyZCBleHBlbnNlcyBmcm9tIGRhdGEgc291cmNlIGlkIHt9IiwgaGFyZEV4cGVuc2VEYXRhU291cmNlSWQpOwogICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7CiAgICB9CgogICAgTGlzdDxIYXJkRXhwZW5zZT4gaGFyZEV4cGVuc2VzID0gdGhpcy5wb3N0Zm9ybWFJSHViTWFwcGVyLmdldEhhcmRFeHBlbnNlcyhoYXJkRXhwZW5zZVByb3h5TGlzdCk7CgogICAgaGFyZEV4cGVuc2VzID0gdXBkYXRlSGFyZEV4cGVuc2VCeVNlZ21lbnRJZHMoCiAgICAgIGNhbXBhaWduSUh1YlByb3ZpZGVyLAogICAgICBoYXJkRXhwZW5zZXMpOwoKICAgIHJldHVybiBoYXJkRXhwZW5zZXM7CiAgfQoKICAvKioKICAgKiBSZXR1cm5zIGFuIHVwZGF0ZWQgaGFyZCBleHBlbnNlcyB3aGljaCBpbmNsdWRlIHRoZWlyIHNlZ21lbnQgaWQgbGlzdCBpZiB0aGF0IG9uZSBleGlzdC4KICAgKgogICAqIEBwYXJhbSBjYW1wYWlnbklIdWJQcm92aWRlciBUaGUgaUh1YiBwcm92aWRlciB3aGljaCBob2xkcyB0aGUgZGF0YSBzb3VyY2UgaWRzLgogICAqIEBwYXJhbSBoYXJkRXhwZW5zZXMgICAgICAgICBUaGUgaGFyZCBleHBlbnNlIHRvIGJlIHVwZGF0ZWQuCiAgICogQHJldHVybiBhbiB1cGRhdGVkIGhhcmQgZXhwZW5zZXMuCiAgICovCiAgcHJpdmF0ZSBATm90TnVsbCBMaXN0PEhhcmRFeHBlbnNlPiB1cGRhdGVIYXJkRXhwZW5zZUJ5U2VnbWVudElkcygKICAgIEBOb3ROdWxsIENhbXBhaWduSUh1YlByb3ZpZGVyIGNhbXBhaWduSUh1YlByb3ZpZGVyLAogICAgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZT4gaGFyZEV4cGVuc2VzKQogIHsKICAgIExpc3Q8SGFyZEV4cGVuc2U+IHVwZGF0ZWRIYXJkRXhwZW5zZXMgPSBoYXJkRXhwZW5zZXM7CgogICAgTGlzdDxIYXJkRXhwZW5zZVNlZ21lbnRQcm94eT4gaGFyZEV4cGVuc2VTZWdtZW50UHJveHlMaXN0ID0gZ2V0SGFyZEV4cGVuc2VTZWdtZW50UHJveHlMaXN0KAogICAgICBjYW1wYWlnbklIdWJQcm92aWRlciwKICAgICAgdXBkYXRlZEhhcmRFeHBlbnNlcyk7CgogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCkpCiAgICB7CiAgICAgIC8vIElmIHRoZXJlIGlzIGhhcmQgZXhwZW5zZSBieSBzZWdtZW50LiBJdCBzaG91bGQgYmUgbmVjZXNzYXJ5IHRvIGZpbHRlciB0aGF0CiAgICAgIHVwZGF0ZWRIYXJkRXhwZW5zZXMgPSB1cGRhdGVIYXJkRXhwZW5zZUJ5U2VnbWVudElkcygKICAgICAgICB1cGRhdGVkSGFyZEV4cGVuc2VzLAogICAgICAgIGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCk7CiAgICB9CgogICAgcmV0dXJuIHVwZGF0ZWRIYXJkRXhwZW5zZXM7CiAgfQoKICAvKioKICAgKiBSZXR1cm5zIGEgaGFyZCBleHBlbnNlIHNlZ21lbnQgcHJveHkgbGlzdCBieSBhIHF1ZXJ5IHByZWRpY2F0ZWQgYnVpbHQgZnJvbSBoYXJkIGV4cGVuc2VzLgogICAqCiAgICogQHBhcmFtIGNhbXBhaWduSUh1YlByb3ZpZGVyIFRoZSBpSHViIHByb3ZpZGVyLgogICAqIEBwYXJhbSBoYXJkRXhwZW5zZXMgICAgICAgICBUaGUgaGFyZCBleHBlbnNlIGxpc3QuCiAgICogQHJldHVybiBhIGhhcmQgZXhwZW5zZSBzZWdtZW50IHByb3h5IGxpc3QuCiAgICovCiAgcHJpdmF0ZSBATm90TnVsbCBMaXN0PEhhcmRFeHBlbnNlU2VnbWVudFByb3h5PiBnZXRIYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QoCiAgICBATm90TnVsbCBDYW1wYWlnbklIdWJQcm92aWRlciBjYW1wYWlnbklIdWJQcm92aWRlciwKICAgIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2U+IGhhcmRFeHBlbnNlcykKICB7CiAgICBTdHJpbmcgaGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkID0gY2FtcGFpZ25JSHViUHJvdmlkZXIuZ2V0SGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkKCk7CgogICAgLy8gQ3JlYXRlIHRoZSBxdWVyeSBvcGVyYW5kcyBieSBpbiBvcGVyYXRpb24KICAgIExpc3Q8UXVlcnlPcGVyYW5kPiBxdWVyeU9wZXJhbmRzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBxdWVyeU9wZXJhbmRzLmFkZChGaWVsZE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXROYW1lKEhhcmRFeHBlbnNlU2VnbWVudFByb3h5LkhBUkRfRVhQRU5TRV9GS19DT0xVTU5fTkFNRSkuYnVpbGQoKSk7CiAgICBmb3IgKEhhcmRFeHBlbnNlIGhhcmRFeHBlbnNlIDogaGFyZEV4cGVuc2VzKQogICAgewogICAgICBxdWVyeU9wZXJhbmRzLmFkZChMaXRlcmFsT3BlcmFuZEltcGwuYnVpbGRlcigpLnNldFZhbHVlKGhhcmRFeHBlbnNlLmdldElkKCkpLnNldFN1YlR5cGUoVml6RGF0YVN1YlR5cGUuU1RSSU5HKS5idWlsZCgpKTsKICAgIH0KCiAgICBRdWVyeVByZWRpY2F0ZSByZXN0cmljdGlvbiA9IFF1ZXJ5UHJlZGljYXRlSW1wbC5idWlsZGVyKCkKICAgICAgLnNldE9wZXJhdG9yKFJlc3RyaWN0aW9uUXVlcnlPcGVyYXRvci5pbikKICAgICAgLnNldE9wZXJhbmRzKHF1ZXJ5T3BlcmFuZHMpCiAgICAgIC5idWlsZCgpOwoKICAgIC8vIEFkZCByZXN0cmljdGlvbiB0byByZXF1ZXN0IHBhcmFtZXRlcnMKICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1ldGVycyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIHBhcmFtZXRlcnMucHV0KCJyZXN0cmljdGlvbiIsIHJlc3RyaWN0aW9uKTsKCiAgICBMaXN0PEhhcmRFeHBlbnNlU2VnbWVudFByb3h5PiBoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QgPSBKc29uQ29ubmVjdG9yLnBvc3RKc29uKAogICAgICBnZXRSZXN0VGVtcGxhdGUoKSwKICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIKICAgICAgICAuZnJvbVVyaShjYW1wYWlnbklIdWJQcm92aWRlci5nZXRVUkkoKSkKICAgICAgICAucGF0aFNlZ21lbnQoImRhdGFzZXJ2aWNlIiwgInYxIiwgImRhdGFzb3VyY2VzIiwgaGFyZEV4cGVuc2VTZWdtZW50RGF0YVNvdXJjZUlkLCAiZGF0YXNldCIpCiAgICAgICAgLnF1ZXJ5UGFyYW0oInJlc3RyaWN0aW9uIiwgcmVzdHJpY3Rpb24pCiAgICAgICAgLmJ1aWxkKCkKICAgICAgICAudG9VcmkoKSwKICAgICAgcGFyYW1ldGVycywKICAgICAgbmV3IExpc3RIYXJkRXhwZW5zZVNlZ21lbnRQcm94eVR5cGVSZWZlcmVuY2UoKSk7CgogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGhhcmRFeHBlbnNlU2VnbWVudFByb3h5TGlzdCkpCiAgICB7CiAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgIH0KCiAgICByZXR1cm4gaGFyZEV4cGVuc2VTZWdtZW50UHJveHlMaXN0OwogIH0KCiAgLyoqCiAgICogUmV0dXJucyBhbiB1cGRhdGVkIGhhcmQgZXhwZW5zZXMgd2hpY2ggaW5jbHVkZSB0aGVpciBzZWdtZW50IGlkIGxpc3QgaWYgdGhhdCBvbmUgZXhpc3QuCiAgICoKICAgKiBAcGFyYW0gaGFyZEV4cGVuc2VzICAgICAgICAgICAgICAgIFRoZSBoYXJkIGV4cGVuc2UgdG8gYmUgdXBkYXRlZC4KICAgKiBAcGFyYW0gaGFyZEV4cGVuc2VTZWdtZW50UHJveHlMaXN0IFRoZSBoYXJkIGV4cGVuc2UgYnkgc2VnbWVudCBpZCBsaXN0LgogICAqIEByZXR1cm4gYW4gdXBkYXRlZCBoYXJkIGV4cGVuc2VzLgogICAqLwogIHByaXZhdGUgc3RhdGljIEBOb3ROdWxsIExpc3Q8SGFyZEV4cGVuc2U+IHVwZGF0ZUhhcmRFeHBlbnNlQnlTZWdtZW50SWRzKAogICAgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZT4gaGFyZEV4cGVuc2VzLAogICAgQE5vdE51bGwgTGlzdDxIYXJkRXhwZW5zZVNlZ21lbnRQcm94eT4gaGFyZEV4cGVuc2VTZWdtZW50UHJveHlMaXN0KQogIHsKICAgIExpc3Q8SGFyZEV4cGVuc2U+IG5ld0hhcmRFeHBlbnNlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgIGZvciAoSGFyZEV4cGVuc2UgaGFyZEV4cGVuc2UgOiBoYXJkRXhwZW5zZXMpCiAgICB7CiAgICAgIFN0cmluZyBoYXJkRXhwZW5zZUlkID0gaGFyZEV4cGVuc2UuZ2V0SWQoKTsKCiAgICAgIExpc3Q8U3RyaW5nPiBmaWx0ZXJlZFNlZ21lbnRJZHMgPSBoYXJkRXhwZW5zZVNlZ21lbnRQcm94eUxpc3QKICAgICAgICAuc3RyZWFtKCkKICAgICAgICAuZmlsdGVyKGl0ZW0gLT4gaXRlbS5nZXRIYXJkRXhwZW5zZUZLKCkuZXF1YWxzKGhhcmRFeHBlbnNlSWQpKQogICAgICAgIC5tYXAoSGFyZEV4cGVuc2VTZWdtZW50UHJveHk6OmdldFNlZ21lbnRGSykKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICAgIGhhcmRFeHBlbnNlID0gSGFyZEV4cGVuc2VJbXBsLnRvQnVpbGRlcihoYXJkRXhwZW5zZSkKICAgICAgICAuc2V0U2VnbWVudElkcyhmaWx0ZXJlZFNlZ21lbnRJZHMpCiAgICAgICAgLmJ1aWxkKCk7CgogICAgICBuZXdIYXJkRXhwZW5zZXMuYWRkKGhhcmRFeHBlbnNlKTsKICAgIH0KCiAgICByZXR1cm4gbmV3SGFyZEV4cGVuc2VzOwogIH0KCgogIHB1YmxpYyBATm90TnVsbCBMaXN0PFNlZ21lbnRDdXN0b21lclByb3h5PiBnZXRBbGxTZWdtZW50Q3VzdG9tZXJzKAogICAgQE5vdE51bGwgQ2FtcGFpZ25JSHViUHJvdmlkZXIgY2FtcGFpZ25Qcm92aWRlcgogICkKICB7CiAgICB2YXIgY3VzdG9tZXJEYXRhU291cmNlSWQgPSBjYW1wYWlnblByb3ZpZGVyLmdldFNlZ21lbnRDdXN0b21lckRhdGFTb3VyY2VJZCgpOwogICAgdmFyIGN1c3RvbWVyRGF0YVVyaSA9CiAgICAgIFVyaUNvbXBvbmVudHNCdWlsZGVyCiAgICAgICAgLmZyb21VcmkoY2FtcGFpZ25Qcm92aWRlci5nZXRVUkkoKSkKICAgICAgICAucGF0aFNlZ21lbnQoImRhdGFzZXJ2aWNlIiwgInYxIiwgImRhdGFzb3VyY2VzIiwgY3VzdG9tZXJEYXRhU291cmNlSWQsICJkYXRhc2V0LWRpcmVjdCIpCiAgICAgICAgLmJ1aWxkKCkudG9VcmkoKTsKICAgIHZhciBzZWdtZW50Q3VzdG9tZXJzID0gSnNvbkNvbm5lY3Rvci5nZXRTaW5nbGVPYmplY3RGcm9tSlNPTigKICAgICAgZ2V0UmVzdFRlbXBsYXRlKCksCiAgICAgIGN1c3RvbWVyRGF0YVVyaSwKICAgICAgbmV3IFNlZ21lbnRDdXN0b21lckxpc3RSZWZlcmVuY2UoKSk7CgogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHNlZ21lbnRDdXN0b21lcnMpKQogICAgewogICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7CiAgICB9CgogICAgcmV0dXJuIHNlZ21lbnRDdXN0b21lcnM7CiAgfQoKICBwdWJsaWMgQE5vdE51bGwgTGlzdDxTZWdtZW50Q3VzdG9tZXJQcm94eT4gZ2V0Q2FtcGFpZ25TZWdtZW50Q3VzdG9tZXJzKAogICAgQE5vdE51bGwgQ2FtcGFpZ25JSHViUHJvdmlkZXIgY2FtcGFpZ25Qcm92aWRlciwKICAgIEBOb3ROdWxsIFN0cmluZyBjYW1wYWlnbklkKQogIHsKICAgIHZhciBjdXN0b21lckRhdGFTb3VyY2VJZCA9IGNhbXBhaWduUHJvdmlkZXIuZ2V0U2VnbWVudEN1c3RvbWVyRGF0YVNvdXJjZUlkKCk7CiAgICBRdWVyeVByZWRpY2F0ZSBjYW1wYWlnbklkUmVzdHJpY3Rpb24gPSBRdWVyeVByZWRpY2F0ZUltcGwuYnVpbGRlcigpCiAgICAgIC5zZXRPcGVyYXRvcihSZXN0cmljdGlvblF1ZXJ5T3BlcmF0b3IuZXEpCiAgICAgIC5zZXRPcGVyYW5kcyhBcnJheXMuYXNMaXN0KAogICAgICAgIEZpZWxkT3BlcmFuZEltcGwuYnVpbGRlcigpLnNldE5hbWUoU2VnbWVudEN1c3RvbWVyUHJveHkuQ0FNUEFJR05fRktfQ09MVU1OX05BTUUpLmJ1aWxkKCksCiAgICAgICAgTGl0ZXJhbE9wZXJhbmRJbXBsLmJ1aWxkZXIoKS5zZXRWYWx1ZShjYW1wYWlnbklkKS5zZXRTdWJUeXBlKFZpekRhdGFTdWJUeXBlLlNUUklORykuYnVpbGQoKSkpCiAgICAgIC5idWlsZCgpOwogICAgdmFyIHNlZ21lbnRDdXN0b21lcnMgPSBKc29uQ29ubmVjdG9yLmdldFNpbmdsZU9iamVjdEZyb21KU09OKAogICAgICBnZXRSZXN0VGVtcGxhdGUoKSwKICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIKICAgICAgICAuZnJvbVVyaShjYW1wYWlnblByb3ZpZGVyLmdldFVSSSgpKQogICAgICAgIC5wYXRoU2VnbWVudCgiZGF0YXNlcnZpY2UiLCAidjEiLCAiZGF0YXNvdXJjZXMiLCBjdXN0b21lckRhdGFTb3VyY2VJZCwgImRhdGFzZXQiKQogICAgICAgIC5xdWVyeVBhcmFtKCJyZXN0cmljdGlvbiIsIGNhbXBhaWduSWRSZXN0cmljdGlvbikKICAgICAgICAuYnVpbGQoKS50b1VyaSgpLAogICAgICBuZXcgU2VnbWVudEN1c3RvbWVyTGlzdFJlZmVyZW5jZSgpKTsKCiAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoc2VnbWVudEN1c3RvbWVycykpCiAgICB7CiAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgIH0KCiAgICByZXR1cm4gc2VnbWVudEN1c3RvbWVyczsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBpSHViU2V0dGluZ3MgPSBnZXRDYW1wYWlnblByb3ZpZGVyU2V0dGluZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBHZXQgdGhlIGJ1aWx0IHJlc3QgdGVtcGxhdGUgaW5zdGFuY2UuCiAgICoKICAgKiBAcmV0dXJuIHRoZSBidWlsdCByZXN0IHRlbXBsYXRlIGluc3RhbmNlLgogICAqLwogIHByaXZhdGUgQE5vdE51bGwgUmVzdFRlbXBsYXRlIGdldFJlc3RUZW1wbGF0ZSgpIHsKCiAgICBpZiAodGhpcy5yZXN0VGVtcGxhdGUgPT0gbnVsbCkKICAgIHsKICAgICAgdGhpcy5yZXN0VGVtcGxhdGUgPSB0aGlzLnJlc3RUZW1wbGF0ZUJ1aWxkZXIuYnVpbGQoKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy5yZXN0VGVtcGxhdGU7CiAgfQo=</text>
+        <text encoding="base64">aWh1Yi5yZW1vdGVbMV0uYXV0aE1ldGhvZD1LRVlDTE9BSwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVzdFRlbXBsYXRlQnVpbGRlciA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsIFJlc3RUZW1wbGF0ZUJ1aWxkZXIgcmVzdFRlbXBsYXRlQnVpbGRlciwK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRDYW1wYWlnbkRhdGFTb3VyY2VJZHMoKSB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmNhbXBhaWduRGF0YVNvdXJjZUlkcyA9PSBudWxsKSB7CiAgICAgIHZhciBjYW1wYWlnblByb3ZpZGVyU2V0dGluZ3MgPSB0aGlzLmdldFByb3ZpZGVycygpCiAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0VHlwZSgpID09IENhbXBhaWduUHJvdmlkZXJUeXBlLkNBTVBBSUdOKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5vckVsc2UobnVsbCk7CgogICAgICB2YXIgY2FtcGFpZ25EcyA9IEpzb25Db25uZWN0b3IuZ2V0U2luZ2xlT2JqZWN0RnJvbUpTT04oCiAgICAgICAgZ2V0UmVzdFRlbXBsYXRlKCksCiAgICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaShjYW1wYWlnblByb3ZpZGVyU2V0dGluZ3MuZ2V0VVJJKCkpCiAgICAgICAgICAucGF0aFNlZ21lbnQoImNhbXBhaWduIiwgImRhdGFzb3VyY2VpZCIpCiAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgLnRvVXJpKCksCiAgICAgICAgQ2FtcGFpZ25EYXRhU291cmNlSWRzSW1wbC5jbGFzcyk7CgogICAgICB0aGlzLmNhbXBhaWduRGF0YVNvdXJjZUlkcyA9IGNhbXBhaWduRHM7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFJlc3RUZW1wbGF0ZUJ1aWxkZXIgcmVzdFRlbXBsYXRlQnVpbGRlcjsKICBwcml2YXRlIEBOdWxsYWJsZSBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEBOdWxsYWJsZSBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgIHZhciBjYW1wYWlnblByb3ZpZGVyU2V0dGluZ3MgPSB0aGlzLmdldFByb3ZpZGVycygpCiAgICAgIC5zdHJlYW0oKQogICAgICAuZmlsdGVyKGl0ZW0gLT4gaXRlbS5nZXRUeXBlKCkgPT0gQ2FtcGFpZ25Qcm92aWRlclR5cGUuQ0FNUEFJR04pCiAgICAgIC5maW5kRmlyc3QoKQogICAgICAub3JFbHNlKG51bGwpOwoKICAgIHZhciBjYW1wYWlnbkRzID0gSnNvbkNvbm5lY3Rvci5nZXRTaW5nbGVPYmplY3RGcm9tSlNPTigKICAgICAgZ2V0UmVzdFRlbXBsYXRlKCksCiAgICAgIFVyaUNvbXBvbmVudHNCdWlsZGVyLmZyb21VcmkoY2FtcGFpZ25Qcm92aWRlclNldHRpbmdzLmdldFVSSSgpKQogICAgICAgIC5wYXRoU2VnbWVudCgiY2FtcGFpZ24iLCAiZGF0YXNvdXJjZWlkIikKICAgICAgICAuYnVpbGQoKQogICAgICAgIC50b1VyaSgpLAogICAgICBDYW1wYWlnbkRhdGFTb3VyY2VJZHNJbXBsLmNsYXNzKTsgCiAgICAKICAgIHRoaXMuY2FtcGFpZ25EYXRhU291cmNlSWRzID0gY2FtcGFpZ25EczsK</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
