@@ -55,21 +55,21 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/config/xformas01/application.properties" timestamp="1556747065031">
+      <file name="$USER_HOME$/Documents/ihub-campaign/config/xformas01/application.properties" timestamp="1556755699101">
         <mark key="'" line="63" column="54" />
         <mark key="k" line="87" column="0" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="87" column="77" />
-        <mark key="." line="87" column="69" />
-        <mark key="^" line="84" column="5" />
+        <mark key="[" line="85" column="73" />
+        <mark key="]" line="85" column="81" />
+        <mark key="." line="85" column="73" />
+        <mark key="^" line="84" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1556754629588">
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1556755844057">
         <mark key="'" line="209" column="79" />
-        <mark key="[" line="196" column="4" />
+        <mark key="[" line="202" column="11" />
         <mark key="k" line="92" column="71" />
-        <mark key="]" line="196" column="10" />
-        <mark key="." line="196" column="10" />
-        <mark key="^" line="196" column="10" />
+        <mark key="]" line="202" column="38" />
+        <mark key="." line="202" column="11" />
+        <mark key="^" line="202" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/test/resources/dataset/campaigns.json" timestamp="1554675556697">
         <mark key="[" line="4" column="41" />
@@ -168,11 +168,11 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556753018593">
-        <mark key="'" line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1556755858827">
+        <mark key="'" line="0" column="99" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="." line="0" column="98" />
         <mark key="o" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/ApplicationTest.java" timestamp="1553823459883">
@@ -226,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="5" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" />
-      <jump line="125" column="54" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" />
       <jump line="45" column="2" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/CampaignService.java" />
       <jump line="59" column="45" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/HardExpenseImpl.java" />
       <jump line="99" column="49" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/HardExpenseService.java" />
@@ -326,19 +324,21 @@
       <jump line="21" column="50" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/SegmentImpl.java" />
       <jump line="209" column="79" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="123" column="58" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="4" column="99" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyICA=</text>
+        <text>redemptionSessionDataSourceId</text>
       </register>
       <register name="/" type="4">
         <text>literal</text>
       </register>
       <register name="0" type="4">
-        <text>processAndSaveSessionsOverDatePeriod</text>
+        <text>redemptionSessionResultsUri</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgCg==</text>
