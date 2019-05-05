@@ -77,11 +77,11 @@
         <mark key="[" line="95" column="44" />
         <mark key="]" line="95" column="73" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557050679244">
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557091482937">
         <mark key="'" line="72" column="27" />
         <mark key="[" line="82" column="71" />
         <mark key="k" line="73" column="49" />
-        <mark key="]" line="82" column="78" />
+        <mark key="]" line="82" column="79" />
         <mark key="." line="82" column="71" />
         <mark key="^" line="82" column="0" />
       </file>
@@ -363,7 +363,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>11l2uomy</text>
       </register>
       <register name="/" type="4">
         <text>predicate</text>
