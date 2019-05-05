@@ -84,8 +84,8 @@
         <mark key="." line="82" column="71" />
         <mark key="^" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557053128498">
-        <mark key="'" line="175" column="31" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557094290943">
+        <mark key="'" line="142" column="43" />
         <mark key="[" line="117" column="0" />
         <mark key="m" line="315" column="4" />
         <mark key="]" line="117" column="0" />
@@ -256,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="58" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-core/ihub-campaign-dto/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/CampaignIHubProviderImpl.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
       <jump line="39" column="17" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/Segment.java" />
       <jump line="53" column="16" filename="$USER_HOME$/vizexplorer/ihub-campaign/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/service/SegmentService.java" />
       <jump line="93" column="38" filename="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
@@ -356,6 +354,8 @@
       <jump line="50" column="68" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
       <jump line="62" column="13" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/IHubServiceConnector.java" />
       <jump line="52" column="26" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
+      <jump line="143" column="27" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="142" column="43" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
