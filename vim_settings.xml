@@ -77,13 +77,13 @@
         <mark key="[" line="95" column="44" />
         <mark key="]" line="95" column="73" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557042773559">
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557047852389">
         <mark key="'" line="72" column="27" />
-        <mark key="[" line="85" column="61" />
+        <mark key="[" line="82" column="0" />
         <mark key="k" line="73" column="49" />
-        <mark key="]" line="85" column="68" />
-        <mark key="." line="84" column="72" />
-        <mark key="^" line="84" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557030428082">
         <mark key="'" line="139" column="6" />
@@ -127,7 +127,6 @@
         <mark key="^" line="148" column="35" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" timestamp="1557046458990" />
       <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/config/PostFormaProperties.java" timestamp="1556595922610">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -244,7 +243,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557043247931">
+      <file name="/fragment.java" timestamp="1557047527445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -357,7 +356,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getSingleObjectFromJSON</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>predicate</text>
