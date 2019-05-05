@@ -174,11 +174,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/dto/Session.java" timestamp="1557096092870">
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="32" column="79" />
-        <mark key="." line="32" column="49" />
-        <mark key="^" line="32" column="48" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/dto/Session.java" timestamp="1557097745514">
+        <mark key="[" line="93" column="62" />
+        <mark key="]" line="93" column="64" />
+        <mark key="." line="93" column="64" />
+        <mark key="^" line="93" column="64" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/util/DateUtils.java" timestamp="1557031307145">
         <mark key="[" line="17" column="24" />
@@ -191,13 +191,13 @@
         <mark key="^" line="55" column="85" />
         <mark key="." line="55" column="85" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557095639856">
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557097812417">
         <mark key="'" line="51" column="42" />
-        <mark key="[" line="56" column="87" />
+        <mark key="[" line="160" column="102" />
         <mark key="k" line="53" column="5" />
-        <mark key="]" line="56" column="87" />
+        <mark key="]" line="160" column="102" />
         <mark key="^" line="56" column="87" />
-        <mark key="." line="56" column="87" />
+        <mark key="." line="160" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/ihub-campaign/src/main/java/com/vizexplorer/ihub/campaign/dto/HardExpenses.java" timestamp="1554697908212">
         <mark key="[" line="17" column="33" />
@@ -221,8 +221,8 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1557096773414">
-        <mark key="'" line="41" column="83" />
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1557097727801">
+        <mark key="'" line="46" column="44" />
         <mark key="[" line="163" column="74" />
         <mark key="]" line="163" column="76" />
         <mark key="." line="163" column="76" />
@@ -265,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="35" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/config/PostformaProxyProperties.java" />
       <jump line="129" column="31" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" />
       <jump line="119" column="76" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" />
       <jump line="288" column="18" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaIHubConnectorService.java" />
@@ -365,13 +364,14 @@
       <jump line="106" column="15" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="41" column="83" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
       <jump line="23" column="13" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/model/RedeemableOfferCode.java" />
+      <jump line="46" column="44" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>-direct</text>
       </register>
       <register name="/" type="4">
         <text>pointsear</text>
