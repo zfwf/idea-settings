@@ -5,11 +5,11 @@
       <mark key="V" line="250" column="27" filename="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/PostFormaServiceTest.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1556787479847">
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1557092501504">
         <mark key="'" line="107" column="54" />
-        <mark key="[" line="325" column="0" />
+        <mark key="[" line="507" column="41" />
         <mark key="k" line="325" column="6" />
-        <mark key="]" line="329" column="20" />
+        <mark key="]" line="507" column="63" />
         <mark key="." line="325" column="6" />
         <mark key="^" line="325" column="6" />
       </file>
@@ -23,7 +23,6 @@
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="41" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/PostFormaServiceTest.java" timestamp="1556834457262" />
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-service/src/main/java/com/vizexplorer/ihub/campaign/controller/CampaignController.java" timestamp="1556787748383">
         <mark key="[" line="95" column="25" />
         <mark key="]" line="95" column="26" />
@@ -250,7 +249,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557050335247">
+      <file name="/fragment.java" timestamp="1557091970606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -368,8 +367,8 @@
       <register name="/" type="4">
         <text>predicate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNQcm9jZXNzaW5nID0gZmFsc2U7Cg==</text>
+      <register name="0" type="4">
+        <text>getSingleObjectFromJSON</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
