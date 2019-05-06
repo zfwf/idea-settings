@@ -76,7 +76,7 @@
         <mark key="[" line="95" column="44" />
         <mark key="]" line="95" column="73" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557096175163">
+      <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557102217744">
         <mark key="'" line="72" column="27" />
         <mark key="[" line="82" column="71" />
         <mark key="k" line="73" column="49" />
@@ -376,8 +376,8 @@
       <register name="/" type="4">
         <text>getsession</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzZXNzaW9uc1VyaSA9CiAgICAgIHRoaXMuaUh1YlNlcnZpY2VDb25uZWN0b3IuZ2V0U2Vzc2lvbnNVcmkoc2Vzc2lvbkRhdGFTb3VyY2VJZCwgImRhdGFzZXQiKTsK</text>
+      <register name="0" type="4">
+        <text>11lsanpn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyB0aGUgCg==</text>
