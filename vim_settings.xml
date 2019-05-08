@@ -110,8 +110,12 @@
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557351093427">
-        <mark key="'" line="209" column="51" />
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557352632205">
+        <mark key="'" line="258" column="63" />
+        <mark key="[" line="306" column="58" />
+        <mark key="]" line="307" column="5" />
+        <mark key="^" line="307" column="5" />
+        <mark key="." line="307" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ihub/Application.java" timestamp="1552533309698">
         <mark key="[" line="2" column="0" />
@@ -240,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
-      <jump line="59" column="2" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/CampaignServiceConnector.java" />
       <jump line="53" column="0" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/IHubServiceConnector.java" />
       <jump line="55" column="47" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
       <jump line="135" column="69" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
@@ -340,19 +342,21 @@
       <jump line="180" column="47" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/RedemptionProcessorService.java" />
       <jump line="78" column="43" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="209" column="51" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="77" column="35" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="258" column="63" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Date.from(Instant.now()</text>
+        <text>processingStart</text>
       </register>
       <register name="/" type="4">
         <text>setid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBTY2hlZHVsZXMgYSBzaW5nbGUgZGVmYXVsdCByZWRlbXB0aW9uIGRhdGEgcHJvY2Vzc2luZyBqb2IgdG8gc3RhcnQgbm93CiAgICovCiAgcHVibGljIHZvaWQgc3RhcnRTaW5nbGVEZWZhdWx0UmVkZW1wdGlvbk1vZGVsUHJvY2Vzc2luZygpCiAgewogICAgaWYgKCF0aGlzLmdldElzUHJvY2Vzc2luZygpKQogICAgewogICAgICB0aGlzLnRhc2tTY2hlZHVsZXIuc2NoZWR1bGUodGhpczo6ZG9EZWZhdWx0UHJvY2Vzc2luZywgRGF0ZS5mcm9tKEluc3RhbnQubm93KCkpKTsKICAgIH0KICB9Cg==</text>
+      <register name="0" type="4">
+        <text>campaign.getStartDate().isBefore(processingEnd)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
