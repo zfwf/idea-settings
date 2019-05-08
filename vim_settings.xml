@@ -108,6 +108,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-campaign/ihub-campaign-proxy/src/main/java/com/vizexplorer/ihub/campaign/proxy/service/connector/CampaignIHubConnectorService.java" timestamp="1557284693314">
+        <mark key="[" line="602" column="0" />
+        <mark key="]" line="602" column="0" />
+        <mark key="." line="602" column="0" />
+      </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/controller/RedemptionProcessingStarterController.java" timestamp="1557052574497">
         <mark key="'" line="113" column="51" />
       </file>
@@ -340,16 +345,16 @@
         <text encoding="base64">ICAgIHRoaXMub2ZmZXJJZE5vT2ZmZXIgPSBQb3N0Rm9ybWFQcm9wZXJ0aWVzLk9GRkVSSURfTk9fT0ZGRVI7CiAgICB0aGlzLnByb2Nlc3NGcmVxRXhwcmVzc2lvbiA9IFBvc3RGb3JtYVByb3BlcnRpZXMuUFJPQ0VTU19GUkVRX0VYUFJFU1NJT047CiAgICB0aGlzLnByb2Nlc3NpbmdDaHVua1NpemVJbkRheXMgPSBQb3N0Rm9ybWFQcm9wZXJ0aWVzLlBST0NFU1NJTkdfQ0hVTktfU0laRV9JTl9EQVlTOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvY2Vzc0ZyZXFFeHByZXNzaW9uID0gIjAgMzAgNCAqICogKiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvY2Vzc0ZyZXFFeHByZXNzaW9uID0gIjAgMzAgNCAqICogKiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2lodWIucG9zdGZvcm1hLnByb3h5LnByb3ZpZGVyc1swXS5uYW1lPUNhbXBhaWduIFNlcnZpY2UKI2lodWIucG9zdGZvcm1hLnByb3h5LnByb3ZpZGVyc1swXS50eXBlPUNBTVBBSUdOCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnNldElkKCJzZXNzaW9uMSIpCg==</text>
+        <text encoding="base64">I2lodWIucG9zdGZvcm1hLnByb3h5LnByb3ZpZGVyc1swXS5uYW1lPUNhbXBhaWduIFNlcnZpY2UKI2lodWIucG9zdGZvcm1hLnByb3h5LnByb3ZpZGVyc1swXS50eXBlPUNBTVBBSUdOCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgLnNldElkKCJzZXNzaW9uMSIpCg==</text>
