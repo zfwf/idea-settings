@@ -199,11 +199,11 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-postforma/config/xformas01/application.properties" timestamp="1557223215609">
+      <file name="$USER_HOME$/vizexplorer/ihub-postforma/config/xformas01/application.properties" timestamp="1557226768556">
         <mark key="v" line="82" column="10" />
-        <mark key="k" line="85" column="42" />
-        <mark key="[" line="91" column="41" />
-        <mark key="]" line="91" column="44" />
+        <mark key="k" line="85" column="39" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="91" column="45" />
         <mark key="^" line="91" column="44" />
         <mark key="." line="91" column="44" />
       </file>
@@ -359,7 +359,7 @@
         <text>offerim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBvZmZlckNvZGVUeXBlID0gdGhpcy5yZWRlZW1hYmxlT2ZmZXJDb2RlU2VydmljZS5nZXRPZmZlckNvZGVUeXBlKG8uZ2V0VHlwZSgpKTsKICAgICAgICAgIG9mZmVycy5hZGQobmV3IFJlZGVlbWFibGVPZmZlckNvZGUoCiAgICAgICAgICAgIG8uZ2V0SWQoKSwKICAgICAgICAgICAgICBvLmdldE5hbWUoKSwKICAgICAgICAgICAgICBvLmdldEFtb3VudCgpLAogICAgICAgICAgICAgIG9mZmVyQ29kZVR5cGUsCiAgICAgICAgICAgICAgby5nZXRTdGFydCgpLAogICAgICAgICAgICAgIG8uZ2V0RW5kKCksCiAgICAgICAgICAgICBzLmdldElkKCksIAogICAgICAgICAgICBjLmdldElkKCkpKTsK</text>
+        <text encoding="base64">aWh1Yi5wb3N0Zm9ybWEub2ZmZXJUeXBlc1swXS50eXBlPUZSRUVfUExBWQppaHViLnBvc3Rmb3JtYS5vZmZlclR5cGVzWzBdLnZhcmlhbnRzWzBdPUZQCmlodWIucG9zdGZvcm1hLm9mZmVyVHlwZXNbMF0udmFyaWFudHNbMV09RnJlZVBsYXkKaWh1Yi5wb3N0Zm9ybWEub2ZmZXJUeXBlc1sxXS50eXBlPUhPVEVMCmlodWIucG9zdGZvcm1hLm9mZmVyVHlwZXNbMV0udmFyaWFudHNbMF09SE9URUwKaWh1Yi5wb3N0Zm9ybWEub2ZmZXJUeXBlc1syXS50eXBlPUZPT0QKaWh1Yi5wb3N0Zm9ybWEub2ZmZXJUeXBlc1syXS52YXJpYW50c1swXT1GT09ECg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwdWJsaWMgUmVkZWVtYWJsZU9mZmVyQ29kZShTdHJpbmcgaWQsCiAgICAgICAgICBTdHJpbmcgbmFtZSwKICAgICAgICAgIGRvdWJsZSB2YWx1ZSwKICAgICAgICAgIE9mZmVyQ29kZVR5cGUgdHlwZSwKICAgICAgICAgIEluc3RhbnQgc3RhcnQsCiAgICAgICAgICBJbnN0YW50IGVuZCwKICAgICAgICAgIFN0cmluZyBzZWdtZW50SWQsCiAgICAgICAgICBTdHJpbmcgY2FtcGFpZ25JZCkgewogICAgICAgICAgICAK</text>
