@@ -46,9 +46,9 @@
         <mark key="." line="79" column="60" />
         <mark key="^" line="79" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-campaign/config/xformas01/application.properties" timestamp="1557371477572">
+      <file name="$USER_HOME$/Documents/ihub-campaign/config/xformas01/application.properties" timestamp="1557376525956">
         <mark key="[" line="83" column="71" />
-        <mark key="]" line="83" column="79" />
+        <mark key="]" line="83" column="78" />
         <mark key="." line="83" column="71" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-core/ihub-campaign-interface/src/main/java/com/vizexplorer/ihub/dto/campaign/proxy/HardExpenseSegmentProxy.java" timestamp="1556969665161">
@@ -139,12 +139,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557375688322">
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557376352539">
         <mark key="'" line="144" column="13" />
-        <mark key="[" line="164" column="48" />
-        <mark key="]" line="164" column="48" />
-        <mark key="^" line="164" column="48" />
-        <mark key="." line="164" column="48" />
+        <mark key="[" line="165" column="39" />
+        <mark key="k" line="142" column="34" />
+        <mark key="]" line="165" column="45" />
+        <mark key="^" line="165" column="45" />
+        <mark key="." line="165" column="45" />
       </file>
       <file name="/PostFormaProperties.java" timestamp="1557203133828">
         <mark key="k" line="51" column="48" />
@@ -179,7 +180,7 @@
         <mark key="." line="132" column="81" />
         <mark key="^" line="132" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557374882060">
+      <file name="/Dummy.txt" timestamp="1557376587315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/ApplicationTest.java" timestamp="1553823459883">
@@ -353,13 +354,13 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Object()</text>
+        <text>numFound</text>
       </register>
       <register name="/" type="4">
         <text>datasetinfo</text>
       </register>
       <register name="0" type="4">
-        <text>parameters</text>
+        <text>11qey1qu</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
