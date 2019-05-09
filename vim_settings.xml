@@ -94,6 +94,7 @@
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/MatchSessionOfferService.java" timestamp="1557373445559" />
       <file name="$USER_HOME$/vizexplorer/ihub-campaign/config/xformas01/application.properties" timestamp="1557102217744">
         <mark key="'" line="72" column="27" />
         <mark key="[" line="82" column="71" />
@@ -107,8 +108,8 @@
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557366346754">
-        <mark key="'" line="150" column="53" />
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557374091124">
+        <mark key="'" line="142" column="67" />
         <mark key="[" line="66" column="63" />
         <mark key="]" line="66" column="75" />
         <mark key="^" line="66" column="75" />
@@ -137,8 +138,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557277516348">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" timestamp="1557374118740">
+        <mark key="'" line="138" column="68" />
       </file>
       <file name="/PostFormaProperties.java" timestamp="1557203133828">
         <mark key="k" line="51" column="48" />
@@ -234,17 +235,13 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/vizexplorer/ihub-campaign/src/test/java/com/vizexplorer/ihub/postforma/PostFormaServiceTest.java" timestamp="1557105612304" />
-      <file name="/fragment.java" timestamp="1557365938286">
+      <file name="/fragment.java" timestamp="1557374024719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="62" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/IHubServiceConnector.java" />
-      <jump line="140" column="25" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
-      <jump line="141" column="57" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/RedemptionProcessorService.java" />
       <jump line="80" column="76" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="142" column="4" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
       <jump line="137" column="49" filename="$USER_HOME$/vizexplorer/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
@@ -339,9 +336,12 @@
       <jump line="209" column="51" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="77" column="35" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="258" column="63" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
-      <jump line="133" column="26" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
-      <jump line="143" column="26" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
       <jump line="150" column="53" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="133" column="22" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="143" column="26" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="142" column="67" filename="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
+      <jump line="138" column="68" filename="$USER_HOME$/Documents/ihub-postforma/ihub-postforma-proxy/src/main/java/com/vizexplorer/ihub/postforma/proxy/service/connector/PostformaConnector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
