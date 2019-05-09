@@ -110,12 +110,12 @@
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557352632205">
+      <file name="$USER_HOME$/Documents/ihub-postforma/ihub-campaign-postforma/src/main/java/com/vizexplorer/ihub/postforma/service/FEFORedemptionProcessorService.java" timestamp="1557352821338">
         <mark key="'" line="258" column="63" />
-        <mark key="[" line="306" column="58" />
-        <mark key="]" line="307" column="5" />
-        <mark key="^" line="307" column="5" />
-        <mark key="." line="307" column="5" />
+        <mark key="[" line="306" column="103" />
+        <mark key="]" line="306" column="107" />
+        <mark key="^" line="306" column="107" />
+        <mark key="." line="306" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/campaign-manager-be-service/src/main/java/com/vizexplorer/ihub/Application.java" timestamp="1552533309698">
         <mark key="[" line="2" column="0" />
@@ -350,13 +350,13 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExvb2t1cD4gZXhwZWN0ZWRMb29rdXBzID0gZ2V0TG9va3VwTGlzdEZyb21GaWxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>processingStart</text>
+        <text>End</text>
       </register>
       <register name="/" type="4">
         <text>setid</text>
       </register>
       <register name="0" type="4">
-        <text>campaign.getStartDate().isBefore(processingEnd)</text>
+        <text>processingEnd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
