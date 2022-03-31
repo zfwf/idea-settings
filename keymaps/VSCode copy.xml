@@ -1,0 +1,49 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="ActivateRunToolWindow" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.NewFile" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+  </action>
+  <action id="ForceRefresh" />
+  <action id="Git.Branches" />
+  <action id="GotoFile" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift alt f5" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="com.dubreuia.core.action.ShortcutAction" />
+</keymap>
